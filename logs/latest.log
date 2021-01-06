@@ -1,0 +1,119 @@
+[16:47:02] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16:47:03] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[16:47:05] [Worker-Main-2/INFO]: Loaded 7 recipes
+[16:47:09] [Server thread/INFO]: Starting minecraft server version 1.16.4
+[16:47:09] [Server thread/INFO]: Loading properties
+[16:47:09] [Server thread/INFO]: Default game type: SURVIVAL
+[16:47:09] [Server thread/INFO]: Generating keypair
+[16:47:10] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:47:10] [Server thread/INFO]: Using epoll channel type
+[16:47:11] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-3eb7236 (MC: 1.16.4) (Implementing API version 1.16.4-R0.1-SNAPSHOT)
+[16:47:11] [Server thread/INFO]: [Timber] Loading Timber v1.0.9
+[16:47:11] [Server thread/INFO]: [MySkin] Loading MySkin v3.3
+[16:47:11] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:47:11] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:47:11] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:47:11] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:47:11] [Server thread/INFO]: Preparing level "world"
+[16:47:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:47:14] [Server thread/INFO]: Preparing spawn area: 0%
+[16:47:14] [Server thread/INFO]: Preparing spawn area: 0%
+[16:47:14] [Server thread/INFO]: Preparing spawn area: 0%
+[16:47:14] [Server thread/INFO]: Preparing spawn area: 0%
+[16:47:14] [Server thread/INFO]: Preparing spawn area: 0%
+[16:47:14] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[16:47:15] [Server thread/INFO]: Preparing spawn area: 28%
+[16:47:16] [Server thread/INFO]: Time elapsed: 4124 ms
+[16:47:16] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[16:47:17] [Server thread/INFO]: Preparing spawn area: 0%
+[16:47:17] [Server thread/INFO]: Preparing spawn area: 0%
+[16:47:17] [Server thread/INFO]: Preparing spawn area: 0%
+[16:47:17] [Server thread/INFO]: Preparing spawn area: 0%
+[16:47:18] [Server thread/INFO]: Preparing spawn area: 63%
+[16:47:18] [Worker-Main-2/INFO]: Preparing spawn area: 92%
+[16:47:19] [Worker-Main-2/INFO]: Preparing spawn area: 92%
+[16:47:19] [Worker-Main-2/INFO]: Preparing spawn area: 92%
+[16:47:20] [Worker-Main-2/INFO]: Preparing spawn area: 92%
+[16:47:20] [Worker-Main-2/INFO]: Preparing spawn area: 92%
+[16:47:21] [Worker-Main-2/INFO]: Preparing spawn area: 92%
+[16:47:21] [Worker-Main-2/INFO]: Preparing spawn area: 92%
+[16:47:22] [Worker-Main-2/INFO]: Preparing spawn area: 92%
+[16:47:22] [Worker-Main-2/INFO]: Preparing spawn area: 94%
+[16:47:23] [Worker-Main-2/INFO]: Preparing spawn area: 94%
+[16:47:23] [Worker-Main-2/INFO]: Preparing spawn area: 94%
+[16:47:24] [Worker-Main-2/INFO]: Preparing spawn area: 99%
+[16:47:24] [Server thread/INFO]: Time elapsed: 8180 ms
+[16:47:24] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[16:47:25] [Server thread/INFO]: Preparing spawn area: 0%
+[16:47:25] [Server thread/INFO]: Preparing spawn area: 0%
+[16:47:25] [Worker-Main-2/INFO]: Preparing spawn area: 83%
+[16:47:26] [Worker-Main-2/INFO]: Preparing spawn area: 83%
+[16:47:26] [Worker-Main-2/INFO]: Preparing spawn area: 83%
+[16:47:27] [Worker-Main-2/INFO]: Preparing spawn area: 92%
+[16:47:27] [Server thread/INFO]: Time elapsed: 2802 ms
+[16:47:27] [Server thread/INFO]: [Timber] Enabling Timber v1.0.9
+[16:47:27] [Server thread/INFO]: Timber Log Materials: [ACACIA_LOG, OAK_LOG, BIRCH_LOG, SPRUCE_LOG, JUNGLE_LOG, DARK_OAK_LOG]
+[16:47:27] [Server thread/INFO]: Timber Axe Materials: [STONE_AXE, GOLDEN_AXE, IRON_AXE, NETHERITE_AXE, DIAMOND_AXE, WOODEN_AXE]
+[16:47:27] [Server thread/INFO]: [MySkin] Enabling MySkin v3.3
+[16:47:27] [Server thread/INFO]: [0;32;1m[MySkin] Running on server version [0;33;1mv1_16_R3[m
+[16:47:27] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[16:47:27] [Server thread/INFO]: Done (15.684s)! For help, type "help"
+[16:47:28] [Server thread/INFO]: com.mojang.authlib.GameProfile@529e8cb4[id=<null>,name=Georgalos,properties={},legacy=false] (/186.122.16.222:8520) lost connection: Disconnected
+[16:47:29] [Craft Scheduler Thread - 0/INFO]: [0;32;1m[MySkin] You are running up to date version [0;33;1m3.3[m
+[16:47:36] [Server thread/INFO]: Georgalos[/186.122.16.222:35150] logged in with entity id 129 at ([world]4435.654506723735, 63.0, 2261.384641579846)
+[16:47:38] [Server thread/INFO]: MegaDrax[/181.46.164.82:21656] logged in with entity id 361 at ([world]6255.468294960542, 69.0, -2882.9724341562232)
+[16:47:43] [Server thread/INFO]: Mythos000[/186.158.132.185:8451] logged in with entity id 542 at ([world]3007.95621948758, 65.83999997377396, 2403.300000011921)
+[16:47:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5048ms or 100 ticks behind
+[16:47:48] [Server thread/INFO]: fabrapp[/152.169.66.45:2339] logged in with entity id 675 at ([world]2252.762499988079, 80.0, 1602.8610308639832)
+[16:48:10] [Netty Epoll Server IO #2/INFO]: <Georgalos> asd[m
+[16:48:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 39724ms or 794 ticks behind
+[16:49:16] [Server thread/INFO]: PupiAnana[/152.169.61.77:50933] logged in with entity id 1547 at ([world]6318.314931799913, 76.08639997415543, -2858.395384709251)
+[16:49:34] [Server thread/INFO]: ElPantera21[/167.58.19.188:53778] logged in with entity id 1711 at ([world]6258.747279886182, 76.0, -2796.946233663997)
+[16:49:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 30750ms or 615 ticks behind
+[16:50:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 29975ms or 599 ticks behind
+[16:51:14] [Server thread/INFO]: PupiAnana has made the advancement [Enchanter]
+[16:51:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9006ms or 180 ticks behind
+[16:51:49] [Server thread/INFO]: PupiAnana issued server command: /tp 2399 48 -939
+[16:51:49] [Server thread/WARN]: Entity EntityPlayer['PupiAnana'/1547, l='ServerLevel[world]', x=2399.50, y=48.00, z=-938.50](PupiAnana at 2399.5,48.0,-938.5) left loaded chunk area
+[16:51:49] [Server thread/INFO]: [PupiAnana: Teleported PupiAnana to 2399.5, 48.0, -938.5]
+[16:52:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11583ms or 231 ticks behind
+[16:52:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11945ms or 238 ticks behind
+[16:53:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11580ms or 231 ticks behind
+[16:54:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14411ms or 288 ticks behind
+[16:55:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13818ms or 276 ticks behind
+[16:55:40] [Server thread/WARN]: Mythos000 moved too quickly! 17.57116733865314,1.9755759117863079,5.809412118082037
+[16:56:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22473ms or 449 ticks behind
+[16:56:07] [Server thread/INFO]: ElPantera21 issued server command: /tp MegaDrax
+[16:56:07] [Server thread/INFO]: [ElPantera21: Teleported ElPantera21 to MegaDrax]
+[16:56:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14180ms or 283 ticks behind
+[16:57:00] [Server thread/INFO]: ElPantera21 issued server command: /tp PupiAnana
+[16:57:00] [Server thread/INFO]: [ElPantera21: Teleported ElPantera21 to PupiAnana]
+[16:57:28] [Server thread/INFO]: MegaDrax issued server command: /tp ElPantera21
+[16:57:28] [Server thread/INFO]: [MegaDrax: Teleported MegaDrax to ElPantera21]
+[16:57:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19181ms or 383 ticks behind
+[16:57:45] [Server thread/INFO]: PupiAnana issued server command: /tp MegaDrax
+[16:57:45] [Server thread/INFO]: [PupiAnana: Teleported PupiAnana to MegaDrax]
+[16:58:08] [Server thread/INFO]: Georgalos issued server command: /tp Mythos000
+[16:58:08] [Server thread/INFO]: [Georgalos: Teleported Georgalos to Mythos000]
+[16:58:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5065ms or 101 ticks behind
+[16:58:36] [Server thread/INFO]: Mythos000 issued server command: /tp MegaDrax
+[16:58:36] [Server thread/INFO]: [Mythos000: Teleported Mythos000 to MegaDrax]
+[16:58:57] [Server thread/INFO]: Georgalos lost connection: Timed out
+[16:58:57] [Server thread/INFO]: Georgalos left the game
+[16:59:41] [Server thread/INFO]: Mythos000 issued server command: /tp PupiAnana
+[16:59:41] [Server thread/INFO]: [Mythos000: Teleported Mythos000 to PupiAnana]
+[16:59:46] [Server thread/INFO]: Mythos000 issued server command: /tp fabrapp
+[16:59:46] [Server thread/INFO]: [Mythos000: Teleported Mythos000 to fabrapp]
+[16:59:54] [Server thread/INFO]: MegaDrax issued server command: /tp fabrapp
+[16:59:54] [Server thread/INFO]: [MegaDrax: Teleported MegaDrax to fabrapp]
+[17:01:16] [Server thread/INFO]: ElPantera21 issued server command: /tp fabrapp
+[17:01:16] [Server thread/INFO]: [ElPantera21: Teleported ElPantera21 to fabrapp]
+[17:01:40] [Server thread/INFO]: MegaDrax issued server command: /tp 6293 70 -2857
+[17:01:40] [Server thread/WARN]: Entity EntityPlayer['MegaDrax'/361, l='ServerLevel[world]', x=6293.50, y=70.00, z=-2856.50](MegaDrax at 6293.5,70.0,-2856.5) left loaded chunk area
+[17:01:40] [Server thread/INFO]: [MegaDrax: Teleported MegaDrax to 6293.5, 70.0, -2856.5]
+[17:01:42] [Server thread/INFO]: ElPantera21 issued server command: /tp 6293 70 -2857
+[17:01:42] [Server thread/INFO]: [ElPantera21: Teleported ElPantera21 to 6293.5, 70.0, -2856.5]
+[17:02:20] [Server thread/INFO]: fabrapp has made the advancement [Acquire Hardware]
+[17:02:41] [Server thread/INFO]: ElPantera21 issued server command: /tp MegaDrax ElPantera21
+[17:02:41] [Server thread/INFO]: [ElPantera21: Teleported MegaDrax to ElPantera21]
+[17:03:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
