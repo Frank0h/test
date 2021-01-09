@@ -1,176 +1,1008 @@
-[16:47:02] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[16:47:03] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[16:47:05] [Worker-Main-2/INFO]: Loaded 7 recipes
-[16:47:09] [Server thread/INFO]: Starting minecraft server version 1.16.4
-[16:47:09] [Server thread/INFO]: Loading properties
-[16:47:09] [Server thread/INFO]: Default game type: SURVIVAL
-[16:47:09] [Server thread/INFO]: Generating keypair
-[16:47:10] [Server thread/INFO]: Starting Minecraft server on *:25565
-[16:47:10] [Server thread/INFO]: Using epoll channel type
-[16:47:11] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-3eb7236 (MC: 1.16.4) (Implementing API version 1.16.4-R0.1-SNAPSHOT)
-[16:47:11] [Server thread/INFO]: [Timber] Loading Timber v1.0.9
-[16:47:11] [Server thread/INFO]: [MySkin] Loading MySkin v3.3
-[16:47:11] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[16:47:11] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[16:47:11] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[16:47:11] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[16:47:11] [Server thread/INFO]: Preparing level "world"
-[16:47:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[16:47:14] [Server thread/INFO]: Preparing spawn area: 0%
-[16:47:14] [Server thread/INFO]: Preparing spawn area: 0%
-[16:47:14] [Server thread/INFO]: Preparing spawn area: 0%
-[16:47:14] [Server thread/INFO]: Preparing spawn area: 0%
-[16:47:14] [Server thread/INFO]: Preparing spawn area: 0%
-[16:47:14] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[16:47:15] [Server thread/INFO]: Preparing spawn area: 28%
-[16:47:16] [Server thread/INFO]: Time elapsed: 4124 ms
-[16:47:16] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[16:47:17] [Server thread/INFO]: Preparing spawn area: 0%
-[16:47:17] [Server thread/INFO]: Preparing spawn area: 0%
-[16:47:17] [Server thread/INFO]: Preparing spawn area: 0%
-[16:47:17] [Server thread/INFO]: Preparing spawn area: 0%
-[16:47:18] [Server thread/INFO]: Preparing spawn area: 63%
-[16:47:18] [Worker-Main-2/INFO]: Preparing spawn area: 92%
-[16:47:19] [Worker-Main-2/INFO]: Preparing spawn area: 92%
-[16:47:19] [Worker-Main-2/INFO]: Preparing spawn area: 92%
-[16:47:20] [Worker-Main-2/INFO]: Preparing spawn area: 92%
-[16:47:20] [Worker-Main-2/INFO]: Preparing spawn area: 92%
-[16:47:21] [Worker-Main-2/INFO]: Preparing spawn area: 92%
-[16:47:21] [Worker-Main-2/INFO]: Preparing spawn area: 92%
-[16:47:22] [Worker-Main-2/INFO]: Preparing spawn area: 92%
-[16:47:22] [Worker-Main-2/INFO]: Preparing spawn area: 94%
-[16:47:23] [Worker-Main-2/INFO]: Preparing spawn area: 94%
-[16:47:23] [Worker-Main-2/INFO]: Preparing spawn area: 94%
-[16:47:24] [Worker-Main-2/INFO]: Preparing spawn area: 99%
-[16:47:24] [Server thread/INFO]: Time elapsed: 8180 ms
-[16:47:24] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[16:47:25] [Server thread/INFO]: Preparing spawn area: 0%
-[16:47:25] [Server thread/INFO]: Preparing spawn area: 0%
-[16:47:25] [Worker-Main-2/INFO]: Preparing spawn area: 83%
-[16:47:26] [Worker-Main-2/INFO]: Preparing spawn area: 83%
-[16:47:26] [Worker-Main-2/INFO]: Preparing spawn area: 83%
-[16:47:27] [Worker-Main-2/INFO]: Preparing spawn area: 92%
-[16:47:27] [Server thread/INFO]: Time elapsed: 2802 ms
-[16:47:27] [Server thread/INFO]: [Timber] Enabling Timber v1.0.9
-[16:47:27] [Server thread/INFO]: Timber Log Materials: [ACACIA_LOG, OAK_LOG, BIRCH_LOG, SPRUCE_LOG, JUNGLE_LOG, DARK_OAK_LOG]
-[16:47:27] [Server thread/INFO]: Timber Axe Materials: [STONE_AXE, GOLDEN_AXE, IRON_AXE, NETHERITE_AXE, DIAMOND_AXE, WOODEN_AXE]
-[16:47:27] [Server thread/INFO]: [MySkin] Enabling MySkin v3.3
-[16:47:27] [Server thread/INFO]: [0;32;1m[MySkin] Running on server version [0;33;1mv1_16_R3[m
-[16:47:27] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[16:47:27] [Server thread/INFO]: Done (15.684s)! For help, type "help"
-[16:47:28] [Server thread/INFO]: com.mojang.authlib.GameProfile@529e8cb4[id=<null>,name=Georgalos,properties={},legacy=false] (/186.122.16.222:8520) lost connection: Disconnected
-[16:47:29] [Craft Scheduler Thread - 0/INFO]: [0;32;1m[MySkin] You are running up to date version [0;33;1m3.3[m
-[16:47:36] [Server thread/INFO]: Georgalos[/186.122.16.222:35150] logged in with entity id 129 at ([world]4435.654506723735, 63.0, 2261.384641579846)
-[16:47:38] [Server thread/INFO]: MegaDrax[/181.46.164.82:21656] logged in with entity id 361 at ([world]6255.468294960542, 69.0, -2882.9724341562232)
-[16:47:43] [Server thread/INFO]: Mythos000[/186.158.132.185:8451] logged in with entity id 542 at ([world]3007.95621948758, 65.83999997377396, 2403.300000011921)
-[16:47:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5048ms or 100 ticks behind
-[16:47:48] [Server thread/INFO]: fabrapp[/152.169.66.45:2339] logged in with entity id 675 at ([world]2252.762499988079, 80.0, 1602.8610308639832)
-[16:48:10] [Netty Epoll Server IO #2/INFO]: <Georgalos> asd[m
-[16:48:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 39724ms or 794 ticks behind
-[16:49:16] [Server thread/INFO]: PupiAnana[/152.169.61.77:50933] logged in with entity id 1547 at ([world]6318.314931799913, 76.08639997415543, -2858.395384709251)
-[16:49:34] [Server thread/INFO]: ElPantera21[/167.58.19.188:53778] logged in with entity id 1711 at ([world]6258.747279886182, 76.0, -2796.946233663997)
-[16:49:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 30750ms or 615 ticks behind
-[16:50:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 29975ms or 599 ticks behind
-[16:51:14] [Server thread/INFO]: PupiAnana has made the advancement [Enchanter]
-[16:51:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9006ms or 180 ticks behind
-[16:51:49] [Server thread/INFO]: PupiAnana issued server command: /tp 2399 48 -939
-[16:51:49] [Server thread/WARN]: Entity EntityPlayer['PupiAnana'/1547, l='ServerLevel[world]', x=2399.50, y=48.00, z=-938.50](PupiAnana at 2399.5,48.0,-938.5) left loaded chunk area
-[16:51:49] [Server thread/INFO]: [PupiAnana: Teleported PupiAnana to 2399.5, 48.0, -938.5]
-[16:52:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11583ms or 231 ticks behind
-[16:52:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11945ms or 238 ticks behind
-[16:53:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11580ms or 231 ticks behind
-[16:54:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14411ms or 288 ticks behind
-[16:55:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13818ms or 276 ticks behind
-[16:55:40] [Server thread/WARN]: Mythos000 moved too quickly! 17.57116733865314,1.9755759117863079,5.809412118082037
-[16:56:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22473ms or 449 ticks behind
-[16:56:07] [Server thread/INFO]: ElPantera21 issued server command: /tp MegaDrax
-[16:56:07] [Server thread/INFO]: [ElPantera21: Teleported ElPantera21 to MegaDrax]
-[16:56:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14180ms or 283 ticks behind
-[16:57:00] [Server thread/INFO]: ElPantera21 issued server command: /tp PupiAnana
-[16:57:00] [Server thread/INFO]: [ElPantera21: Teleported ElPantera21 to PupiAnana]
-[16:57:28] [Server thread/INFO]: MegaDrax issued server command: /tp ElPantera21
-[16:57:28] [Server thread/INFO]: [MegaDrax: Teleported MegaDrax to ElPantera21]
-[16:57:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19181ms or 383 ticks behind
-[16:57:45] [Server thread/INFO]: PupiAnana issued server command: /tp MegaDrax
-[16:57:45] [Server thread/INFO]: [PupiAnana: Teleported PupiAnana to MegaDrax]
-[16:58:08] [Server thread/INFO]: Georgalos issued server command: /tp Mythos000
-[16:58:08] [Server thread/INFO]: [Georgalos: Teleported Georgalos to Mythos000]
-[16:58:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5065ms or 101 ticks behind
-[16:58:36] [Server thread/INFO]: Mythos000 issued server command: /tp MegaDrax
-[16:58:36] [Server thread/INFO]: [Mythos000: Teleported Mythos000 to MegaDrax]
-[16:58:57] [Server thread/INFO]: Georgalos lost connection: Timed out
-[16:58:57] [Server thread/INFO]: Georgalos left the game
-[16:59:41] [Server thread/INFO]: Mythos000 issued server command: /tp PupiAnana
-[16:59:41] [Server thread/INFO]: [Mythos000: Teleported Mythos000 to PupiAnana]
-[16:59:46] [Server thread/INFO]: Mythos000 issued server command: /tp fabrapp
-[16:59:46] [Server thread/INFO]: [Mythos000: Teleported Mythos000 to fabrapp]
-[16:59:54] [Server thread/INFO]: MegaDrax issued server command: /tp fabrapp
-[16:59:54] [Server thread/INFO]: [MegaDrax: Teleported MegaDrax to fabrapp]
-[17:01:16] [Server thread/INFO]: ElPantera21 issued server command: /tp fabrapp
-[17:01:16] [Server thread/INFO]: [ElPantera21: Teleported ElPantera21 to fabrapp]
-[17:01:40] [Server thread/INFO]: MegaDrax issued server command: /tp 6293 70 -2857
-[17:01:40] [Server thread/WARN]: Entity EntityPlayer['MegaDrax'/361, l='ServerLevel[world]', x=6293.50, y=70.00, z=-2856.50](MegaDrax at 6293.5,70.0,-2856.5) left loaded chunk area
-[17:01:40] [Server thread/INFO]: [MegaDrax: Teleported MegaDrax to 6293.5, 70.0, -2856.5]
-[17:01:42] [Server thread/INFO]: ElPantera21 issued server command: /tp 6293 70 -2857
-[17:01:42] [Server thread/INFO]: [ElPantera21: Teleported ElPantera21 to 6293.5, 70.0, -2856.5]
-[17:02:20] [Server thread/INFO]: fabrapp has made the advancement [Acquire Hardware]
-[17:02:41] [Server thread/INFO]: ElPantera21 issued server command: /tp MegaDrax ElPantera21
-[17:02:41] [Server thread/INFO]: [ElPantera21: Teleported MegaDrax to ElPantera21]
-[17:03:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
-[17:04:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5022ms or 100 ticks behind
-[17:05:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18491ms or 369 ticks behind
-[17:05:48] [Server thread/INFO]: MegaDrax issued server command: /tp ElPantera21
-[17:05:48] [Server thread/INFO]: [MegaDrax: Teleported MegaDrax to ElPantera21]
-[17:06:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16683ms or 333 ticks behind
-[17:06:33] [Server thread/INFO]: fabrapp issued server command: /tp PupiAnana
-[17:06:33] [Server thread/INFO]: [fabrapp: Teleported fabrapp to PupiAnana]
-[17:06:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11018ms or 220 ticks behind
-[17:07:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10367ms or 207 ticks behind
-[17:07:38] [Server thread/WARN]: MegaDrax moved too quickly! -9.273749713823236,-3.0554624345250474,-2.387686971230778
-[17:07:44] [Server thread/INFO]: fabrapp issued server command: /tp 2267.229 74.00000 1616.603
-[17:07:44] [Server thread/INFO]: [fabrapp: Teleported fabrapp to 2267.229, 74.0, 1616.603]
-[17:08:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18987ms or 379 ticks behind
-[17:08:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8684ms or 173 ticks behind
-[17:09:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8633ms or 172 ticks behind
-[17:09:57] [Server thread/INFO]: ElPantera21 issued server command: /tp MegaDrax
-[17:09:57] [Server thread/INFO]: [ElPantera21: Teleported ElPantera21 to MegaDrax]
-[17:10:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9165ms or 183 ticks behind
-[17:10:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8692ms or 173 ticks behind
-[17:11:19] [Server thread/INFO]: Mythos000 issued server command: /tp MegaDrax
-[17:11:19] [Server thread/INFO]: [Mythos000: Teleported Mythos000 to MegaDrax]
-[17:11:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8238ms or 164 ticks behind
-[17:12:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 56668ms or 1133 ticks behind
-[17:13:35] [Server thread/INFO]: PupiAnana issued server command: /tp fabrapp
-[17:13:35] [Server thread/INFO]: [PupiAnana: Teleported PupiAnana to fabrapp]
-[17:13:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24975ms or 499 ticks behind
-[17:14:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5029ms or 100 ticks behind
-[17:16:00] [Server thread/INFO]: Saving the game (this may take a moment!)
-[17:16:01] [Server thread/INFO]: Saved the game
-[17:16:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5064ms or 101 ticks behind
-[17:16:06] [Server thread/INFO]: There are 5 of a max of 20 players online: MegaDrax, Mythos000, fabrapp, PupiAnana, ElPantera21
-[17:16:07] [Server thread/INFO]: [Server] putas
-[17:16:14] [Server thread/INFO]: Stopping the server
-[17:16:14] [Server thread/INFO]: Stopping server
-[17:16:14] [Server thread/INFO]: [MySkin] Disabling MySkin v3.3
-[17:16:14] [Server thread/INFO]: [Timber] Disabling Timber v1.0.9
-[17:16:14] [Server thread/INFO]: Saving players
-[17:16:14] [Server thread/INFO]: MegaDrax lost connection: Server closed
-[17:16:14] [Server thread/INFO]: MegaDrax left the game
-[17:16:14] [Server thread/INFO]: Mythos000 lost connection: Server closed
-[17:16:14] [Server thread/INFO]: Mythos000 left the game
-[17:16:14] [Server thread/INFO]: fabrapp lost connection: Server closed
-[17:16:14] [Server thread/INFO]: fabrapp left the game
-[17:16:14] [Server thread/INFO]: PupiAnana lost connection: Server closed
-[17:16:14] [Server thread/INFO]: PupiAnana left the game
-[17:16:14] [Server thread/INFO]: ElPantera21 lost connection: Server closed
-[17:16:14] [Server thread/INFO]: ElPantera21 left the game
-[17:16:15] [Server thread/INFO]: Saving worlds
-[17:16:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[17:16:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:16:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[17:16:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:16:26] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[17:16:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:16:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:16:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:16:26] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:00:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5015ms or 100 ticks behind
+[00:00:16] [Server thread/INFO]: Villager EntityVillager['Librarian'/193176, l='ServerLevel[world]', x=6264.40, y=71.50, z=-2882.80] died, message: 'Librarian hit the ground too hard'
+[00:00:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5016ms or 100 ticks behind
+[00:01:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5280ms or 105 ticks behind
+[00:01:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6681ms or 133 ticks behind
+[00:02:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7014ms or 140 ticks behind
+[00:02:59] [Craft Scheduler Thread - 63/INFO]: [Vault] Checking for Updates ... 
+[00:03:00] [Craft Scheduler Thread - 63/INFO]: [Vault] No new version available
+[00:03:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7572ms or 151 ticks behind
+[00:03:33] [Server thread/INFO]: Flekeyd[/179.24.67.232:59268] logged in with entity id 195713 at ([world]6613.902464213546, 77.0, -3010.9143952774884)
+[00:03:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8293ms or 165 ticks behind
+[00:04:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12210ms or 244 ticks behind
+[00:04:45] [Netty Epoll Server IO #7/INFO]: <[0;31;22mFlekeyd[m> marcos[m
+[00:04:51] [Netty Epoll Server IO #7/INFO]: <[0;31;22mFlekeyd[m> me mori y perdi mis cosa pa siempre :v[m
+[00:04:56] [Netty Epoll Server IO #7/INFO]: <[0;31;22mFlekeyd[m> me das un pico decente ? xd[m
+[00:05:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19156ms or 383 ticks behind
+[00:06:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 29294ms or 585 ticks behind
+[00:07:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 27874ms or 557 ticks behind
+[00:08:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 29152ms or 583 ticks behind
+[00:08:54] [Netty Epoll Server IO #2/INFO]: <[0;31;22mElPantera21[m> xd[m
+[00:08:57] [Netty Epoll Server IO #2/INFO]: <[0;31;22mElPantera21[m> entra al dis[m
+[00:09:00] [Netty Epoll Server IO #7/INFO]: <[0;31;22mFlekeyd[m> no es rioso :v[m
+[00:09:05] [Server thread/INFO]: Villager EntityVillager['Villager'/178135, l='ServerLevel[world]', x=2235.70, y=85.00, z=1557.30] died, message: 'Villager was slain by Zombie'
+[00:09:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 29290ms or 585 ticks behind
+[00:09:42] [Server thread/INFO]: Villager EntityVillager['Villager'/178007, l='ServerLevel[world]', x=2253.43, y=82.17, z=1553.28] died, message: 'Villager was slain by Zombie'
+[00:10:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 27538ms or 550 ticks behind
+[00:10:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22086ms or 441 ticks behind
+[00:11:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16402ms or 328 ticks behind
+[00:11:46] [Server thread/INFO]: Villager EntityVillager['Villager'/178105, l='ServerLevel[world]', x=2135.30, y=83.00, z=1506.30] died, message: 'Villager was slain by Zombie Villager'
+[00:12:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14530ms or 290 ticks behind
+[00:13:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13705ms or 274 ticks behind
+[00:13:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15023ms or 300 ticks behind
+[00:14:11] [Server thread/INFO]: Villager EntityVillager['Villager'/178104, l='ServerLevel[world]', x=2316.68, y=79.94, z=1544.30] died, message: 'Villager was slain by Zombie'
+[00:14:43] [Server thread/INFO]: Villager EntityVillager['Villager'/178659, l='ServerLevel[world]', x=2303.30, y=77.00, z=1527.70] died, message: 'Villager was slain by Zombie Villager'
+[00:14:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17175ms or 343 ticks behind
+[00:15:28] [Netty Epoll Server IO #2/INFO]: <[0;31;22mElPantera21[m> nacho[m
+[00:15:31] [Netty Epoll Server IO #2/INFO]: <[0;31;22mPupiAnana[m> que[m
+[00:15:32] [Netty Epoll Server IO #2/INFO]: <[0;31;22mElPantera21[m> me das hilo?[m
+[00:15:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17176ms or 343 ticks behind
+[00:15:53] [Netty Epoll Server IO #2/INFO]: <[0;31;22mPupiAnana[m> tengo 14[m
+[00:16:03] [Netty Epoll Server IO #2/INFO]: <[0;31;22mElPantera21[m> me das 3?[m
+[00:16:06] [Netty Epoll Server IO #2/INFO]: <[0;31;22mElPantera21[m> para una aña[m
+[00:16:13] [Server thread/INFO]: ElPantera21 issued server command: /tp PupiAnana
+[00:16:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16804ms or 336 ticks behind
+[00:16:37] [Server thread/INFO]: ElPantera21 issued server command: /tp 6293 70 -2857
+[00:16:38] [Netty Epoll Server IO #2/INFO]: <[0;31;22mPupiAnana[m> viste los 3 beacons?[m
+[00:17:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12485ms or 249 ticks behind
+[00:17:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11914ms or 238 ticks behind
+[00:17:52] [Netty Epoll Server IO #7/INFO]: <[0;31;22mFlekeyd[m> TOY EN TU CAS[m
+[00:18:05] [Netty Epoll Server IO #2/INFO]: <[0;31;22mElPantera21[m> agarra lo que quieras[m
+[00:18:11] [Netty Epoll Server IO #2/INFO]: <[0;31;22mElPantera21[m> dame 5[m
+[00:18:16] [Netty Epoll Server IO #2/INFO]: <[0;31;22mElPantera21[m> toy hablando por cel[m
+[00:18:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12461ms or 249 ticks behind
+[00:18:54] [Server thread/INFO]: PupiAnana lost connection: Disconnected
+[00:18:54] [Server thread/INFO]: PupiAnana left the game
+[00:18:55] [Server thread/INFO]: PupiAnana[/152.169.61.77:51429] logged in with entity id 199802 at ([world]2306.813247452614, 72.0, 1552.64563530558)
+[00:19:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16304ms or 326 ticks behind
+[00:19:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8148ms or 162 ticks behind
+[00:20:12] [Netty Epoll Server IO #1/INFO]: <[0;31;22mPupiAnana[m> ya vuelvo[m
+[00:20:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7480ms or 149 ticks behind
+[00:21:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6871ms or 137 ticks behind
+[00:21:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8610ms or 172 ticks behind
+[00:22:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11835ms or 236 ticks behind
+[00:23:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12890ms or 257 ticks behind
+[00:23:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15000ms or 300 ticks behind
+[00:24:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15708ms or 314 ticks behind
+[00:25:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18018ms or 360 ticks behind
+[00:26:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22206ms or 444 ticks behind
+[00:27:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19319ms or 386 ticks behind
+[00:27:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19553ms or 391 ticks behind
+[00:28:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21788ms or 435 ticks behind
+[00:29:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23658ms or 473 ticks behind
+[00:30:13] [Netty Epoll Server IO #2/INFO]: <[0;31;22mElPantera21[m> estas to?[m
+[00:30:25] [Netty Epoll Server IO #2/INFO]: <[0;31;22mElPantera21[m> aguanta que prendo mic[m
+[00:30:28] [Netty Epoll Server IO #2/INFO]: <[0;31;22mElPantera21[m> si[m
+[00:30:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22993ms or 459 ticks behind
+[00:31:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21603ms or 432 ticks behind
+[00:32:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15893ms or 317 ticks behind
+[00:32:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15645ms or 312 ticks behind
+[00:33:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13972ms or 279 ticks behind
+[00:34:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16465ms or 329 ticks behind
+[00:35:07] [Server thread/INFO]: ElPantera21 issued server command: /tp Flekeyd
+[00:35:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13550ms or 271 ticks behind
+[00:35:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5008ms or 100 ticks behind
+[00:36:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6742ms or 134 ticks behind
+[00:37:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11029ms or 220 ticks behind
+[00:37:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7363ms or 147 ticks behind
+[00:37:50] [Server thread/INFO]: ElPantera21 has made the advancement [Fishy Business]
+[00:38:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8548ms or 170 ticks behind
+[00:38:32] [Server thread/INFO]: ElPantera21 issued server command: /tp 6293 70 -2857
+[00:39:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13753ms or 275 ticks behind
+[00:39:26] [Netty Epoll Server IO #2/INFO]: <[0;31;22mElPantera21[m> nacho bb[m
+[00:39:36] [Netty Epoll Server IO #2/INFO]: <[0;31;22mElPantera21[m> no tenes uno de netherita que me quieras regalar?[m
+[00:39:38] [Netty Epoll Server IO #1/INFO]: <[0;31;22mPupiAnana[m> kha[m
+[00:39:41] [Netty Epoll Server IO #1/INFO]: <[0;31;22mPupiAnana[m> tener tengo[m
+[00:39:52] [Netty Epoll Server IO #2/INFO]: <[0;31;22mElPantera21[m> por las coordenadas del end[m
+[00:39:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13335ms or 266 ticks behind
+[00:39:53] [Netty Epoll Server IO #2/INFO]: <[0;31;22mElPantera21[m> xd[m
+[00:39:57] [Netty Epoll Server IO #1/INFO]: <[0;31;22mPupiAnana[m> si[m
+[00:40:10] [Netty Epoll Server IO #1/INFO]: <[0;31;22mPupiAnana[m> pasamelas al disc y hacete tp[m
+[00:40:15] [Server thread/INFO]: ElPantera21 issued server command: /tp p
+[00:40:20] [Server thread/INFO]: ElPantera21 issued server command: /tp PupiAnana
+[00:40:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11091ms or 221 ticks behind
+[00:40:52] [Server thread/INFO]: Villager EntityVillager['Villager'/178127, l='ServerLevel[world]', x=2182.24, y=82.00, z=1540.47] died, message: 'Villager hit the ground too hard'
+[00:41:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6953ms or 139 ticks behind
+[00:41:32] [Server thread/INFO]: ElPantera21 issued server command: /tp 6293 70 -2857
+[00:41:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9269ms or 185 ticks behind
+[00:42:15] [Server thread/INFO]: ElPantera21 issued server command: /tp Flekeyd
+[00:42:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10150ms or 203 ticks behind
+[00:42:40] [Server thread/INFO]: ElPantera21 issued server command: /tp 6293 70 -2857
+[00:43:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10233ms or 204 ticks behind
+[00:43:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11581ms or 231 ticks behind
+[00:44:01] [Server thread/INFO]: ElPantera21 issued server command: /tp Flekeyd
+[00:44:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6385ms or 127 ticks behind
+[00:45:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5012ms or 100 ticks behind
+[00:45:14] [Server thread/INFO]: ElPantera21 issued server command: /tp 6293 70 -2857
+[00:45:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10303ms or 206 ticks behind
+[00:46:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10923ms or 218 ticks behind
+[00:47:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11554ms or 231 ticks behind
+[00:47:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14080ms or 281 ticks behind
+[00:48:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12349ms or 246 ticks behind
+[00:49:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12632ms or 252 ticks behind
+[00:49:22] [Server thread/INFO]: ElPantera21 issued server command: /tp Flekeyd
+[00:49:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6042ms or 120 ticks behind
+[00:50:00] [Netty Epoll Server IO #2/INFO]: <[0;31;22mElPantera21[m> ats mute[m
+[00:50:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5255ms or 105 ticks behind
+[00:50:58] [Server thread/INFO]: ElPantera21 issued server command: /tp 6293 70 -2857
+[00:51:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7764ms or 155 ticks behind
+[00:51:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11112ms or 222 ticks behind
+[00:52:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11937ms or 238 ticks behind
+[00:53:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19726ms or 394 ticks behind
+[00:54:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22477ms or 449 ticks behind
+[00:55:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21636ms or 432 ticks behind
+[00:55:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19469ms or 389 ticks behind
+[00:56:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20912ms or 418 ticks behind
+[00:57:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21474ms or 429 ticks behind
+[00:58:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22160ms or 443 ticks behind
+[00:59:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22968ms or 459 ticks behind
+[01:00:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23592ms or 471 ticks behind
+[01:01:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19645ms or 392 ticks behind
+[01:01:07] [Server thread/INFO]: ElPantera21 issued server command: /tp 6293 70 -2857
+[01:01:21] [Netty Epoll Server IO #1/INFO]: <[0;31;22mPupiAnana[m> nice[m
+[01:01:34] [Netty Epoll Server IO #2/INFO]: <[0;31;22mElPantera21[m> che[m
+[01:01:45] [Netty Epoll Server IO #2/INFO]: <[0;31;22mElPantera21[m> me dejas probar el arco en vos?[m
+[01:01:49] [Netty Epoll Server IO #1/INFO]: <[0;31;22mPupiAnana[m> no[m
+[01:01:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13911ms or 278 ticks behind
+[01:01:57] [Netty Epoll Server IO #2/INFO]: <[0;31;22mElPantera21[m> dale rata[m
+[01:02:02] [Netty Epoll Server IO #1/INFO]: <[0;31;22mPupiAnana[m> pega re fuerte[m
+[01:02:06] [Netty Epoll Server IO #1/INFO]: <[0;31;22mPupiAnana[m> mas que seguro[m
+[01:02:06] [Netty Epoll Server IO #2/INFO]: <[0;31;22mElPantera21[m> ahre[m
+[01:02:11] [Netty Epoll Server IO #2/INFO]: <[0;31;22mElPantera21[m> recien lo hice[m
+[01:02:14] [Netty Epoll Server IO #2/INFO]: <[0;31;22mElPantera21[m> por eso[m
+[01:02:15] [Netty Epoll Server IO #1/INFO]: <[0;31;22mPupiAnana[m> poder cuanto[m
+[01:02:18] [Netty Epoll Server IO #2/INFO]: <[0;31;22mElPantera21[m> 4[m
+[01:02:22] [Netty Epoll Server IO #1/INFO]: <[0;31;22mPupiAnana[m> uf[m
+[01:02:27] [Server thread/INFO]: PupiAnana issued server command: /tp ElPantera21
+[01:02:27] [Netty Epoll Server IO #2/INFO]: <[0;31;22mElPantera21[m> no es mucho[m
+[01:02:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13583ms or 271 ticks behind
+[01:02:46] [Server thread/INFO]: Villager EntityVillager['Librarian'/193153, l='ServerLevel[world]', x=6264.48, y=71.50, z=-2883.13] died, message: 'Librarian hit the ground too hard'
+[01:02:47] [Netty Epoll Server IO #2/INFO]: <[0;31;22mElPantera21[m> cuanto?[m
+[01:02:48] [Netty Epoll Server IO #1/INFO]: <[0;31;22mPupiAnana[m> cora y medio[m
+[01:02:51] [Netty Epoll Server IO #2/INFO]: <[0;31;22mElPantera21[m> viste[m
+[01:03:01] [Netty Epoll Server IO #1/INFO]: <[0;31;22mPupiAnana[m> estando full netherite[m
+[01:03:11] [Netty Epoll Server IO #2/INFO]: <[0;31;22mElPantera21[m> sacate todo[m
+[01:03:12] [Netty Epoll Server IO #2/INFO]: <[0;31;22mElPantera21[m> xd[m
+[01:03:13] [Netty Epoll Server IO #1/INFO]: <[0;31;22mPupiAnana[m> en mi casa con el beacon de fuerza haces mierda a cualquiera[m
+[01:03:16] [Netty Epoll Server IO #1/INFO]: <[0;31;22mPupiAnana[m> muero seguro[m
+[01:03:27] [Netty Epoll Server IO #1/INFO]: <[0;31;22mPupiAnana[m> poder 4 saca 20 coras[m
+[01:03:30] [Netty Epoll Server IO #1/INFO]: <[0;31;22mPupiAnana[m> o 18[m
+[01:03:32] [Netty Epoll Server IO #2/INFO]: <[0;31;22mElPantera21[m> veni[m
+[01:03:35] [Netty Epoll Server IO #1/INFO]: <[0;31;22mPupiAnana[m> la vida de un zombie[m
+[01:03:39] [Server thread/INFO]: ElPantera21 issued server command: /tp PupiAnana
+[01:03:40] [Netty Epoll Server IO #1/INFO]: <[0;31;22mPupiAnana[m> si oneshoteas a un zombi[m
+[01:03:46] [Netty Epoll Server IO #1/INFO]: <[0;31;22mPupiAnana[m> matas a una persona sin armadura[m
+[01:04:07] [Netty Epoll Server IO #2/INFO]: <[0;31;22mElPantera21[m> veniwww[m
+[01:04:14] [Netty Epoll Server IO #2/INFO]: <[0;31;22mElPantera21[m> la ultima[m
+[01:04:35] [Netty Epoll Server IO #1/INFO]: <[0;31;22mPupiAnana[m> me da fuerza a mi pa[m
+[01:04:35] [Netty Epoll Server IO #2/INFO]: <[0;31;22mElPantera21[m> ahora?[m
+[01:04:38] [Netty Epoll Server IO #2/INFO]: <[0;31;22mElPantera21[m> ah[m
+[01:04:38] [Netty Epoll Server IO #2/INFO]: <[0;31;22mElPantera21[m> f[m
+[01:04:40] [Netty Epoll Server IO #1/INFO]: <[0;31;22mPupiAnana[m> JAJAJA[m
+[01:04:43] [Netty Epoll Server IO #1/INFO]: <[0;31;22mPupiAnana[m> mira pegame con eso[m
+[01:04:51] [Netty Epoll Server IO #2/INFO]: <[0;31;22mElPantera21[m> pegame vos[m
+[01:04:58] [Netty Epoll Server IO #1/INFO]: <[0;31;22mPupiAnana[m> arco[m
+[01:05:22] [Netty Epoll Server IO #2/INFO]: <[0;31;22mElPantera21[m> ahi?[m
+[01:05:24] [Netty Epoll Server IO #1/INFO]: <[0;31;22mPupiAnana[m> 2 coras y medio[m
+[01:05:26] [Netty Epoll Server IO #2/INFO]: <[0;31;22mElPantera21[m> uf[m
+[01:05:29] [Netty Epoll Server IO #1/INFO]: <[0;31;22mPupiAnana[m> en vez de 1 y medio[m
+[01:05:29] [Netty Epoll Server IO #2/INFO]: <[0;31;22mElPantera21[m> potente[m
+[01:05:32] [Netty Epoll Server IO #2/INFO]: <[0;31;22mElPantera21[m> igual[m
+[01:05:35] [Netty Epoll Server IO #1/INFO]: <[0;31;22mPupiAnana[m> con la espada pegas mas con fuerza[m
+[01:05:36] [Netty Epoll Server IO #2/INFO]: <[0;31;22mElPantera21[m> es poder 5 no 4[m
+[01:05:37] [Netty Epoll Server IO #2/INFO]: <[0;31;22mElPantera21[m> xd[m
+[01:05:49] [Server thread/INFO]: PupiAnana issued server command: /home
+[01:05:53] [Server thread/INFO]: PupiAnana issued server command: /home bed
+[01:06:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5009ms or 100 ticks behind
+[01:06:21] [Server thread/INFO]: ElPantera21 issued server command: /tp 6293 70 -2857
+[01:06:51] [Netty Epoll Server IO #2/INFO]: <[0;31;22mElPantera21[m> dou perdi mi shulker[m
+[01:06:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9564ms or 191 ticks behind
+[01:07:02] [Netty Epoll Server IO #1/INFO]: <[0;31;22mPupiAnana[m> yo como 3 shulckers perdi[m
+[01:07:06] [Netty Epoll Server IO #1/INFO]: <[0;31;22mPupiAnana[m> llenos de cosas[m
+[01:07:10] [Netty Epoll Server IO #2/INFO]: <[0;31;22mElPantera21[m> pero se van?[m
+[01:07:13] [Netty Epoll Server IO #1/INFO]: <[0;31;22mPupiAnana[m> no[m
+[01:07:14] [Netty Epoll Server IO #1/INFO]: <[0;31;22mPupiAnana[m> xD[m
+[01:07:21] [Netty Epoll Server IO #2/INFO]: <[0;31;22mElPantera21[m> tnce no se[m
+[01:07:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8771ms or 175 ticks behind
+[01:07:49] [Netty Epoll Server IO #2/INFO]: <[0;31;22mElPantera21[m> por ahi lo puse y no vi[m
+[01:08:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10529ms or 210 ticks behind
+[01:08:16] [Server thread/INFO]: ElPantera21 issued server command: /tp fl
+[01:08:37] [Netty Epoll Server IO #2/INFO]: <[0;31;22mElPantera21[m> bueno voy a comer[m
+[01:08:39] [Netty Epoll Server IO #2/INFO]: <[0;31;22mElPantera21[m> nos vimo[m
+[01:08:40] [Netty Epoll Server IO #1/INFO]: <[0;31;22mPupiAnana[m> oka[m
+[01:08:41] [Server thread/INFO]: ElPantera21 lost connection: Disconnected
+[01:08:41] [Server thread/INFO]: ElPantera21 left the game
+[01:08:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5879ms or 117 ticks behind
+[01:09:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5003ms or 100 ticks behind
+[01:10:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
+[01:11:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
+[01:11:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5007ms or 100 ticks behind
+[01:12:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
+[01:13:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5006ms or 100 ticks behind
+[01:13:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6638ms or 132 ticks behind
+[01:14:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7704ms or 154 ticks behind
+[01:19:17] [Server thread/WARN]: PupiAnana moved too quickly! 0.9876829026734413,1.0,10.115814231749596
+[01:23:19] [Server thread/INFO]: Nyagisa[/181.44.75.3:54466] logged in with entity id 217618 at ([world]2255.340829743941, 84.875, 1613.1005446792292)
+[01:23:30] [Netty Epoll Server IO #1/INFO]: <[0;31;22mPupiAnana[m> hi[m
+[01:23:32] [Server thread/INFO]: Nyagisa lost connection: Disconnected
+[01:23:32] [Server thread/INFO]: Nyagisa left the game
+[01:23:34] [Server thread/INFO]: Nyagisa[/181.44.75.3:54469] logged in with entity id 217881 at ([world]2255.340829743941, 84.875, 1613.1005446792292)
+[01:23:44] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> que onda bigotes[m
+[01:23:52] [Netty Epoll Server IO #7/INFO]: <[0;31;22mFlekeyd[m> hello[m
+[01:24:00] [Netty Epoll Server IO #7/INFO]: <[0;31;22mFlekeyd[m> me mori estnaodo afk yt perdi todo lo q me diste JAJAJ[m
+[01:24:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5008ms or 100 ticks behind
+[01:24:07] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> xdd[m
+[01:24:22] [Netty Epoll Server IO #7/INFO]: <[0;31;22mFlekeyd[m> quiero q sepas q lo poco q duraron[m
+[01:24:27] [Netty Epoll Server IO #7/INFO]: <[0;31;22mFlekeyd[m> fue un buen uso el q les di[m
+[01:24:31] [Server thread/INFO]: Nyagisa issued server command: /tp Flekeyd
+[01:24:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5784ms or 115 ticks behind
+[01:24:42] [Netty Epoll Server IO #7/INFO]: <[0;31;22mFlekeyd[m> va quedando la casita :v[m
+[01:24:42] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> toma[m
+[01:24:46] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> consegui eso en el end[m
+[01:24:53] [Netty Epoll Server IO #7/INFO]: <[0;31;22mFlekeyd[m> o raios[m
+[01:24:55] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> ya lo tenes en el inventario[m
+[01:24:57] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> xd[m
+[01:25:01] [Server thread/INFO]: Nyagisa issued server command: /home casa
+[01:25:02] [Netty Epoll Server IO #7/INFO]: <[0;31;22mFlekeyd[m> nononono[m
+[01:25:03] [Netty Epoll Server IO #7/INFO]: <[0;31;22mFlekeyd[m> jJAJAJAJ[m
+[01:25:07] [Netty Epoll Server IO #7/INFO]: <[0;31;22mFlekeyd[m> te la rifaste fernando[m
+[01:25:11] [Netty Epoll Server IO #7/INFO]: <[0;31;22mFlekeyd[m> wtf[m
+[01:25:18] [Netty Epoll Server IO #7/INFO]: <[0;31;22mFlekeyd[m> el píco mas cheto q vi en mi vida[m
+[01:25:21] [Server thread/WARN]: Nyagisa moved wrongly!
+[01:25:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5012ms or 100 ticks behind
+[01:25:28] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> xd[m
+[01:25:29] [Server thread/INFO]: PupiAnana experienced kinetic energy
+[01:25:32] [Netty Epoll Server IO #1/INFO]: <[0;31;22mPupiAnana[m> ????[m
+[01:25:43] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> JAJAJA[m
+[01:25:53] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> experimentaste la energia cinetica[m
+[01:25:59] [Netty Epoll Server IO #1/INFO]: <[0;31;22mPupiAnana[m> experimente la energia cinetica[m
+[01:26:05] [Netty Epoll Server IO #7/INFO]: <[0;31;22mFlekeyd[m> yo voy a ver si el marcos tiene un pico con toque de seda[m
+[01:26:08] [Netty Epoll Server IO #7/INFO]: <[0;31;22mFlekeyd[m> lo voy a pedir prestado[m
+[01:26:12] [Netty Epoll Server IO #7/INFO]: <[0;31;22mFlekeyd[m> sin aviso previo xcdd[m
+[01:26:21] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> en inglés es re gracioso "PupiAnana experienced kinetic energy"[m
+[01:26:26] [Netty Epoll Server IO #7/INFO]: <[0;31;22mFlekeyd[m> jasjsj[m
+[01:26:29] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> xddd[m
+[01:26:31] [Netty Epoll Server IO #1/INFO]: <[0;31;22mPupiAnana[m> subilo a tus estados porfavor[m
+[01:26:32] [Netty Epoll Server IO #1/INFO]: <[0;31;22mPupiAnana[m> JAJAJA[m
+[01:26:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5005ms or 100 ticks behind
+[01:26:48] [Netty Epoll Server IO #7/INFO]: <[0;31;22mFlekeyd[m> como tenes q morir para q salte eso ?[m
+[01:26:51] [Netty Epoll Server IO #7/INFO]: <[0;31;22mFlekeyd[m> un creeper?[m
+[01:26:54] [Netty Epoll Server IO #1/INFO]: <[0;31;22mPupiAnana[m> elytras[m
+[01:26:56] [Netty Epoll Server IO #1/INFO]: <[0;31;22mPupiAnana[m> techo[m
+[01:26:59] [Netty Epoll Server IO #7/INFO]: <[0;31;22mFlekeyd[m> agh xd[m
+[01:27:05] [Netty Epoll Server IO #1/INFO]: <[0;31;22mPupiAnana[m> me la pegue contra el techo y una pared[m
+[01:27:08] [Netty Epoll Server IO #7/INFO]: <[0;31;22mFlekeyd[m> lmao[m
+[01:27:13] [Netty Epoll Server IO #1/INFO]: <[0;31;22mPupiAnana[m> me oneshoteo[m
+[01:27:17] [Netty Epoll Server IO #1/INFO]: <[0;31;22mPupiAnana[m> no me la esperaba[m
+[01:27:20] [Netty Epoll Server IO #7/INFO]: <[0;31;22mFlekeyd[m> a csita te dijo[m
+[01:27:26] [Netty Epoll Server IO #1/INFO]: <[0;31;22mPupiAnana[m> completamente[m
+[01:27:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5010ms or 100 ticks behind
+[01:28:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6185ms or 123 ticks behind
+[01:28:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11531ms or 230 ticks behind
+[01:29:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5879ms or 117 ticks behind
+[01:29:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5020ms or 100 ticks behind
+[01:30:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11153ms or 223 ticks behind
+[01:30:50] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> CHE[m
+[01:30:54] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> QUIEN LIBERO MI OSO[m
+[01:31:00] [Netty Epoll Server IO #7/INFO]: <[0;31;22mFlekeyd[m> tenes un oso? :v[m
+[01:31:00] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> NO PARA[m
+[01:31:01] [Server thread/INFO]: fabrapp[/152.169.66.45:3517] logged in with entity id 221606 at ([world]2307.8065844734156, 73.0, 1573.551693258603)
+[01:31:02] [Netty Epoll Server IO #1/INFO]: <[0;31;22mPupiAnana[m> consegui otro tarado[m
+[01:31:03] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> hay uno mas[m
+[01:31:16] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> un oso polar xd[m
+[01:31:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6863ms or 137 ticks behind
+[01:31:30] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> tengo que conseguir una etiqueta para ponerle el oso yogui[m
+[01:31:34] [Netty Epoll Server IO #7/INFO]: <[0;31;22mFlekeyd[m> jajaja[m
+[01:31:42] [Netty Epoll Server IO #7/INFO]: <[0;31;22mFlekeyd[m> dsp agarra otro[m
+[01:31:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6872ms or 137 ticks behind
+[01:31:57] [Netty Epoll Server IO #7/INFO]: <[0;31;22mFlekeyd[m> y ponele bubu[m
+[01:31:59] [Netty Epoll Server IO #7/INFO]: <[0;31;22mFlekeyd[m> xd[m
+[01:32:01] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> xdd[m
+[01:32:11] [Server thread/INFO]: Villager EntityVillager['Villager'/218454, l='ServerLevel[world]', x=2258.30, y=11.00, z=1573.50] died, message: 'Villager hit the ground too hard'
+[01:32:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8045ms or 160 ticks behind
+[01:33:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5385ms or 107 ticks behind
+[01:33:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5003ms or 100 ticks behind
+[01:33:45] [Netty Epoll Server IO #7/INFO]: <[0;31;22mFlekeyd[m> che como es el comando para fijar un punto como casa?[m
+[01:33:46] [Netty Epoll Server IO #7/INFO]: <[0;31;22mFlekeyd[m> :v[m
+[01:33:53] [Netty Epoll Server IO #1/INFO]: <[0;31;22mPupiAnana[m> ./sethome[m
+[01:33:57] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> .sethome "nombre de tu casa"[m
+[01:33:57] [Netty Epoll Server IO #7/INFO]: <[0;31;22mFlekeyd[m> ty[m
+[01:34:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5007ms or 100 ticks behind
+[01:34:31] [Server thread/INFO]: Flekeyd issued server command: /sethome casita
+[01:35:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5005ms or 100 ticks behind
+[01:35:29] [Server thread/INFO]: PupiAnana fell from a high place
+[01:35:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9266ms or 185 ticks behind
+[01:36:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13670ms or 273 ticks behind
+[01:36:43] [Server thread/WARN]: Nyagisa moved wrongly!
+[01:37:01] [Netty Epoll Server IO #6/INFO]: <[0;31;22mfabrapp[m> ne tenes lapis lasuli?[m
+[01:37:08] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> fijate en mis cofres[m
+[01:37:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16552ms or 331 ticks behind
+[01:37:13] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> los que estan en frente de la casa[m
+[01:37:15] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> ahi deberia de haber[m
+[01:37:25] [Netty Epoll Server IO #1/INFO]: <[0;31;22mPupiAnana[m> perdi mi shulker azul[m
+[01:37:31] [Netty Epoll Server IO #6/INFO]: <[0;31;22mfabrapp[m> grasias!![m
+[01:37:43] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> che fabri[m
+[01:37:46] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> ya que estas ahi[m
+[01:37:47] [Netty Epoll Server IO #6/INFO]: <[0;31;22mfabrapp[m> dime[m
+[01:37:55] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> tranqui nada[m
+[01:37:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13506ms or 270 ticks behind
+[01:37:58] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> ahi me tepeo[m
+[01:37:59] [Netty Epoll Server IO #6/INFO]: <[0;31;22mfabrapp[m> ok[m
+[01:38:00] [Server thread/INFO]: Nyagisa issued server command: /tp fabrapp
+[01:38:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11160ms or 223 ticks behind
+[01:39:07] [Netty Epoll Server IO #1/INFO]: <[0;31;22mPupiAnana[m> me conectas a nyagisa 2[m
+[01:39:14] [Netty Epoll Server IO #1/INFO]: <[0;31;22mPupiAnana[m> ?[m
+[01:39:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11062ms or 221 ticks behind
+[01:39:55] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> no[m
+[01:39:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9201ms or 184 ticks behind
+[01:39:57] [Netty Epoll Server IO #1/INFO]: <[0;31;22mPupiAnana[m> f[m
+[01:39:58] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> kappa[m
+[01:40:00] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> para que?[m
+[01:40:02] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> para farmear que[m
+[01:40:07] [Netty Epoll Server IO #1/INFO]: <[0;31;22mPupiAnana[m> esqueletons[m
+[01:40:08] [Netty Epoll Server IO #1/INFO]: <[0;31;22mPupiAnana[m> ahre[m
+[01:40:12] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> ahi lo conecto[m
+[01:40:16] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> che fabri[m
+[01:40:21] [Netty Epoll Server IO #6/INFO]: <[0;31;22mfabrapp[m> dime[m
+[01:40:23] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> si yyo te traigo arena, no me la cocinas?[m
+[01:40:30] [Netty Epoll Server IO #6/INFO]: <[0;31;22mfabrapp[m> sisi[m
+[01:40:33] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> dalep[m
+[01:40:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9592ms or 191 ticks behind
+[01:40:37] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> ahora en un rato te traigo[m
+[01:40:41] [Netty Epoll Server IO #6/INFO]: <[0;31;22mfabrapp[m> ok[m
+[01:41:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13311ms or 266 ticks behind
+[01:41:27] [Netty Epoll Server IO #6/INFO]: <[0;31;22mfabrapp[m> sip[m
+[01:41:43] [Server thread/INFO]: Nyagisa_Dos[/181.44.75.3:54636] logged in with entity id 225320 at ([world]2401.699999988079, 50.0, -936.6999999880791)
+[01:41:52] [Server thread/INFO]: fabrapp issued server command: /tp PupiAnana
+[01:41:58] [Netty Epoll Server IO #0/INFO]: <[0;31;22mNyagisa_Dos[m> que onda bigote[m
+[01:42:05] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> que onda bigote[m
+[01:42:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15687ms or 313 ticks behind
+[01:42:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24256ms or 485 ticks behind
+[01:43:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21908ms or 438 ticks behind
+[01:43:58] [Server thread/WARN]: Nyagisa moved wrongly!
+[01:44:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10070ms or 201 ticks behind
+[01:44:38] [Server thread/INFO]: fabrapp issued server command: /tp PupiAnana
+[01:45:06] [Server thread/INFO]: fabrapp issued server command: /tp PupiAnana
+[01:45:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14251ms or 285 ticks behind
+[01:45:30] [Server thread/INFO]: fabrapp issued server command: /tp PupiAnana
+[01:46:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20927ms or 418 ticks behind
+[01:46:13] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> che nacho[m
+[01:46:15] [Netty Epoll Server IO #1/INFO]: <[0;31;22mPupiAnana[m> quep[m
+[01:46:20] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> te olvidaste un bloque de oro en el bastion[m
+[01:46:25] [Netty Epoll Server IO #1/INFO]: <[0;31;22mPupiAnana[m> uh[m
+[01:46:29] [Netty Epoll Server IO #1/INFO]: <[0;31;22mPupiAnana[m> igual ya termine[m
+[01:46:32] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> bah[m
+[01:46:35] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> no se si es el mismo bastion[m
+[01:46:36] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> ni idea[m
+[01:46:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20961ms or 419 ticks behind
+[01:47:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24253ms or 485 ticks behind
+[01:48:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23933ms or 478 ticks behind
+[01:49:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24175ms or 483 ticks behind
+[01:50:22] [Server thread/INFO]: Nyagisa issued server command: /gamemode 1
+[01:50:24] [Server thread/INFO]: Villager EntityVillager['Villager'/228169, l='ServerLevel[world]', x=2311.70, y=72.00, z=1559.70] died, message: 'Villager was slain by Zombie'
+[01:50:26] [Server thread/INFO]: Nyagisa issued server command: /gamemode 0
+[01:50:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23297ms or 465 ticks behind
+[01:50:41] [Server thread/INFO]: Nyagisa issued server command: /sethome oro
+[01:50:44] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> homes[m
+[01:50:48] [Server thread/INFO]: Nyagisa issued server command: /homes
+[01:51:20] [Netty Epoll Server IO #1/INFO]: <[0;31;22mPupiAnana[m> tengo cordenadas del end por cierto[m
+[01:51:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26378ms or 527 ticks behind
+[01:51:44] [Server thread/INFO]: Nyagisa issued server command: /home casa
+[01:52:12] [Server thread/INFO]: fabrapp issued server command: /tp PupiAnana
+[01:52:28] [Server thread/INFO]: Nyagisa issued server command: /home oro
+[01:52:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 29114ms or 582 ticks behind
+[01:52:59] [Netty Epoll Server IO #1/INFO]: <[0;31;22mPupiAnana[m> nehemias tenes 1 arco?[m
+[01:53:05] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> complicado[m
+[01:53:11] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> tiene que ser un arco sin uso[m
+[01:53:18] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> si queres craftear dispensadores[m
+[01:53:19] [Netty Epoll Server IO #1/INFO]: <[0;31;22mPupiAnana[m> no[m
+[01:53:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23282ms or 465 ticks behind
+[01:53:26] [Netty Epoll Server IO #1/INFO]: <[0;31;22mPupiAnana[m> solo quiero un arco[m
+[01:53:28] [Netty Epoll Server IO #1/INFO]: <[0;31;22mPupiAnana[m> no importa que[m
+[01:53:29] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> para que[m
+[01:53:33] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> fijate en casa[m
+[01:53:36] [Netty Epoll Server IO #1/INFO]: <[0;31;22mPupiAnana[m> un logro[m
+[01:53:37] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> en la granja[m
+[01:53:38] [Netty Epoll Server IO #1/INFO]: <[0;31;22mPupiAnana[m> oka[m
+[01:53:46] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> ahi los arqueros te dan bocha de arcos[m
+[01:53:59] [Server thread/INFO]: PupiAnana issued server command: /tp Nyagisa_Dos
+[01:54:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23854ms or 477 ticks behind
+[01:54:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10989ms or 219 ticks behind
+[01:55:06] [Server thread/INFO]: PupiAnana issued server command: /home bed
+[01:55:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18520ms or 370 ticks behind
+[01:56:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25998ms or 519 ticks behind
+[01:57:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25275ms or 505 ticks behind
+[01:58:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26819ms or 536 ticks behind
+[01:58:42] [Server thread/INFO]: Flekeyd issued server command: /tp casita
+[01:58:47] [Server thread/INFO]: Flekeyd issued server command: /tp home
+[01:58:48] [Server thread/INFO]: fabrapp has made the advancement [Hidden in the Depths]
+[01:58:56] [Netty Epoll Server IO #7/INFO]: <[0;31;22mFlekeyd[m> me puedo tepear a mi house = :;v[m
+[01:59:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26952ms or 539 ticks behind
+[01:59:46] [Server thread/INFO]: Flekeyd issued server command: /spawnpoint tp
+[02:00:07] [Server thread/INFO]: fabrapp issued server command: /tp Nyagisa_Dos
+[02:00:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25682ms or 513 ticks behind
+[02:00:35] [Netty Epoll Server IO #7/INFO]: <[0;31;22mFlekeyd[m> neme[m
+[02:00:41] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> queu[m
+[02:00:48] [Netty Epoll Server IO #7/INFO]: <[0;31;22mFlekeyd[m> hay algun comando para tepearme a mi spwanpoint?[m
+[02:00:56] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> home bed[m
+[02:01:01] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> ese creo que te tepea a tu cama[m
+[02:01:04] [Netty Epoll Server IO #7/INFO]: <[0;31;22mFlekeyd[m> wey[m
+[02:01:08] [Netty Epoll Server IO #7/INFO]: <[0;31;22mFlekeyd[m> esto va a sonar penoso[m
+[02:01:10] [Netty Epoll Server IO #7/INFO]: <[0;31;22mFlekeyd[m> pero no tengo cama:vc[m
+[02:01:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26149ms or 522 ticks behind
+[02:01:25] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> fijate si te tepea a tu spawnpoint xd[m
+[02:01:27] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> por ahi si[m
+[02:01:30] [Netty Epoll Server IO #7/INFO]: <[0;31;22mFlekeyd[m> dale me dijo[m
+[02:01:32] [Netty Epoll Server IO #7/INFO]: <[0;31;22mFlekeyd[m> fijo[m
+[02:01:44] [Server thread/INFO]: Flekeyd issued server command: /home
+[02:01:48] [Netty Epoll Server IO #7/INFO]: <[0;31;22mFlekeyd[m> ahi ta[m
+[02:01:54] [Netty Epoll Server IO #7/INFO]: <[0;31;22mFlekeyd[m> si pongo solo home me tepea xd[m
+[02:01:59] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> nice[m
+[02:02:02] [Netty Epoll Server IO #7/INFO]: <[0;31;22mFlekeyd[m> ty[m
+[02:02:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19401ms or 388 ticks behind
+[02:02:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18016ms or 360 ticks behind
+[02:03:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17416ms or 348 ticks behind
+[02:04:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18202ms or 364 ticks behind
+[02:05:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19370ms or 387 ticks behind
+[02:06:00] [Server thread/INFO]: Nyagisa issued server command: /home casa
+[02:06:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18759ms or 375 ticks behind
+[02:06:24] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> alguien conoce la ubicacion de un huevo de tortuga?[m
+[02:06:43] [Netty Epoll Server IO #7/INFO]: <[0;31;22mFlekeyd[m> que es eso se come? :v[m
+[02:06:50] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> en partes[m
+[02:06:53] [Netty Epoll Server IO #7/INFO]: <[0;31;22mFlekeyd[m> xd[m
+[02:06:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14546ms or 290 ticks behind
+[02:07:15] [Server thread/WARN]: Nyagisa moved wrongly!
+[02:07:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16220ms or 324 ticks behind
+[02:08:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18953ms or 379 ticks behind
+[02:09:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26011ms or 520 ticks behind
+[02:10:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16419ms or 328 ticks behind
+[02:10:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13842ms or 276 ticks behind
+[02:11:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14880ms or 297 ticks behind
+[02:12:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17981ms or 359 ticks behind
+[02:13:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17538ms or 350 ticks behind
+[02:14:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19919ms or 398 ticks behind
+[02:14:09] [Server thread/INFO]: PupiAnana lost connection: You logged in from another location
+[02:14:09] [Server thread/INFO]: PupiAnana left the game
+[02:14:09] [Server thread/INFO]: PupiAnana[/152.169.61.77:51836] logged in with entity id 242372 at ([world]2294.5536030514563, 79.0, 1545.1238092507085)
+[02:14:20] [Server thread/INFO]: PupiAnana lost connection: You logged in from another location
+[02:14:20] [Server thread/INFO]: PupiAnana left the game
+[02:14:21] [Server thread/INFO]: PupiAnana[/152.169.61.77:51840] logged in with entity id 242422 at ([world]2294.294717018065, 80.0, 1543.4699737449064)
+[02:14:28] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> basta pupi[m
+[02:14:36] [Server thread/INFO]: PupiAnana issued server command: /tp Nyagisa_Dos
+[02:14:41] [Netty Epoll Server IO #4/INFO]: <[0;31;22mPupiAnana[m> nunca[m
+[02:14:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14383ms or 287 ticks behind
+[02:16:03] [Netty Epoll Server IO #4/INFO]: <[0;31;22mPupiAnana[m> me voy a ver anime[m
+[02:16:14] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> oc[m
+[02:16:20] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> what[m
+[02:16:21] [Netty Epoll Server IO #4/INFO]: <[0;31;22mPupiAnana[m> antes[m
+[02:16:24] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> una araña invisible[m
+[02:16:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5002ms or 100 ticks behind
+[02:16:27] [Netty Epoll Server IO #4/INFO]: <[0;31;22mPupiAnana[m> si[m
+[02:16:29] [Netty Epoll Server IO #4/INFO]: <[0;31;22mPupiAnana[m> esta en dificil[m
+[02:16:42] [Netty Epoll Server IO #4/INFO]: <[0;31;22mPupiAnana[m> podes dejar a nehemias 2 en la granja de hierro y lana y caña de azucar[m
+[02:16:46] [Netty Epoll Server IO #4/INFO]: <[0;31;22mPupiAnana[m> es todo junto JAJSJAS[m
+[02:16:56] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> tengo que fijarme[m
+[02:16:57] [Netty Epoll Server IO #4/INFO]: <[0;31;22mPupiAnana[m> lo dejo yo[m
+[02:17:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5423ms or 108 ticks behind
+[02:17:03] [Netty Epoll Server IO #4/INFO]: <[0;31;22mPupiAnana[m> aca esta fabri[m
+[02:17:11] [Netty Epoll Server IO #4/INFO]: <[0;31;22mPupiAnana[m> afk tambien[m
+[02:17:16] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> what[m
+[02:17:19] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> tambien esta afk[m
+[02:17:19] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> xd[m
+[02:17:33] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> estoy haciendo la granja de oro[m
+[02:17:37] [Netty Epoll Server IO #4/INFO]: <[0;31;22mPupiAnana[m> joda?[m
+[02:17:38] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> cuando la termine me voy afk ahi[m
+[02:17:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5003ms or 100 ticks behind
+[02:17:44] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> mira[m
+[02:17:45] [Netty Epoll Server IO #4/INFO]: <[0;31;22mPupiAnana[m> en el nether?[m
+[02:17:48] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> venite[m
+[02:17:53] [Server thread/INFO]: Nyagisa issued server command: /home oro
+[02:17:54] [Netty Epoll Server IO #4/INFO]: <[0;31;22mPupiAnana[m> banca[m
+[02:18:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8534ms or 170 ticks behind
+[02:19:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20365ms or 407 ticks behind
+[02:19:15] [Server thread/INFO]: PupiAnana issued server command: /tp Nyagisa_Dos PupiAnana
+[02:19:21] [Server thread/INFO]: PupiAnana issued server command: /tp fabrapp
+[02:19:32] [Server thread/INFO]: Nyagisa issued server command: /tp PupiAnana
+[02:19:48] [Netty Epoll Server IO #4/INFO]: <[0;31;22mPupiAnana[m> fua[m
+[02:19:51] [Netty Epoll Server IO #4/INFO]: <[0;31;22mPupiAnana[m> posta la tas haciendo[m
+[02:19:55] [Netty Epoll Server IO #4/INFO]: <[0;31;22mPupiAnana[m> es alto laburo[m
+[02:19:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19000ms or 380 ticks behind
+[02:20:00] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> no es tanto[m
+[02:20:03] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> es facil[m
+[02:20:05] [Netty Epoll Server IO #4/INFO]: <[0;31;22mPupiAnana[m> que no man xd[m
+[02:20:12] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> lo mas dificil es el huevo de tortuga[m
+[02:20:17] [Netty Epoll Server IO #4/INFO]: <[0;31;22mPupiAnana[m> yo se que podes hasta hacer todo automatico[m
+[02:20:19] [Netty Epoll Server IO #4/INFO]: <[0;31;22mPupiAnana[m> tipo[m
+[02:20:19] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> es ponerse a farmear[m
+[02:20:32] [Netty Epoll Server IO #4/INFO]: <[0;31;22mPupiAnana[m> podes hasta hacer un sistema que intercambie[m
+[02:20:35] [Netty Epoll Server IO #4/INFO]: <[0;31;22mPupiAnana[m> con piglins[m
+[02:20:38] [Netty Epoll Server IO #4/INFO]: <[0;31;22mPupiAnana[m> encerrados[m
+[02:20:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13514ms or 270 ticks behind
+[02:20:46] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> a si?[m
+[02:20:49] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> algo habia visto[m
+[02:20:50] [Netty Epoll Server IO #4/INFO]: <[0;31;22mPupiAnana[m> sipi[m
+[02:20:54] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> lo voy a hacer entonces xd[m
+[02:20:56] [Netty Epoll Server IO #4/INFO]: <[0;31;22mPupiAnana[m> es para farmear cosas[m
+[02:20:59] [Netty Epoll Server IO #4/INFO]: <[0;31;22mPupiAnana[m> fijate[m
+[02:21:00] [Netty Epoll Server IO #4/INFO]: <[0;31;22mPupiAnana[m> xD[m
+[02:21:18] [Server thread/INFO]: Nyagisa issued server command: /home oro
+[02:21:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15590ms or 311 ticks behind
+[02:21:33] [Server thread/INFO]: PupiAnana issued server command: /tp fabrapp PupiAnana
+[02:21:58] [Server thread/INFO]: Nyagisa issued server command: /gamemode 1
+[02:22:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16388ms or 327 ticks behind
+[02:23:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20905ms or 418 ticks behind
+[02:24:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 28935ms or 578 ticks behind
+[02:24:23] [Server thread/INFO]: Nyagisa issued server command: /gamemode 0
+[02:24:57] [Server thread/INFO]: Nyagisa lost connection: Disconnected
+[02:24:57] [Server thread/INFO]: Nyagisa left the game
+[02:24:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26135ms or 522 ticks behind
+[02:24:59] [Server thread/INFO]: Nyagisa[/181.44.75.3:54734] logged in with entity id 247787 at ([world_nether]495.48750001192093, 126.40623167133124, 302.3856614236265)
+[02:25:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17537ms or 350 ticks behind
+[02:26:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16647ms or 332 ticks behind
+[02:27:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18804ms or 376 ticks behind
+[02:28:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19152ms or 383 ticks behind
+[02:29:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21012ms or 420 ticks behind
+[02:29:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21581ms or 431 ticks behind
+[02:30:16] [Server thread/INFO]: fabrapp lost connection: Disconnected
+[02:30:16] [Server thread/INFO]: fabrapp left the game
+[02:30:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19353ms or 387 ticks behind
+[02:31:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16722ms or 334 ticks behind
+[02:32:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21054ms or 421 ticks behind
+[02:33:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17584ms or 351 ticks behind
+[02:33:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16192ms or 323 ticks behind
+[02:34:10] [Netty Epoll Server IO #7/INFO]: <[0;31;22mFlekeyd[m> muchachos termine en una cueva sin palos akguien seria tan amabale de pasarme algunos ;v[m
+[02:34:25] [Server thread/INFO]: Nyagisa issued server command: /tp PupiAnana
+[02:34:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14945ms or 298 ticks behind
+[02:34:48] [Server thread/INFO]: Nyagisa issued server command: /tp Flekeyd
+[02:35:18] [Server thread/INFO]: Nyagisa issued server command: /vanish
+[02:35:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11590ms or 231 ticks behind
+[02:35:27] [Netty Epoll Server IO #7/INFO]: <[0;31;22mFlekeyd[m> tyyyy[m
+[02:35:32] [Server thread/INFO]: Nyagisa issued server command: /home oro
+[02:35:40] [Server thread/INFO]: Nyagisa issued server command: /vanish
+[02:36:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13148ms or 262 ticks behind
+[02:36:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14306ms or 286 ticks behind
+[02:37:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16214ms or 324 ticks behind
+[02:38:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15781ms or 315 ticks behind
+[02:38:54] [Server thread/INFO]: Flekeyd issued server command: /home
+[02:39:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17960ms or 359 ticks behind
+[02:40:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 27891ms or 557 ticks behind
+[02:40:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20914ms or 418 ticks behind
+[02:41:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20226ms or 404 ticks behind
+[02:42:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21214ms or 424 ticks behind
+[02:43:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21012ms or 420 ticks behind
+[02:44:08] [Server thread/INFO]: Villager EntityVillager['Fletcher'/244555, l='ServerLevel[world]', x=2251.30, y=80.00, z=1576.30] died, message: 'Fletcher was slain by Zombie'
+[02:44:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20098ms or 401 ticks behind
+[02:45:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19971ms or 399 ticks behind
+[02:46:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22916ms or 458 ticks behind
+[02:46:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25018ms or 500 ticks behind
+[02:47:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24485ms or 489 ticks behind
+[02:48:29] [Server thread/INFO]: Villager EntityVillager['Villager'/244542, l='ServerLevel[world]', x=2243.70, y=72.00, z=1530.30] died, message: 'Villager was slain by Zombie'
+[02:48:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26593ms or 531 ticks behind
+[02:48:49] [Server thread/INFO]: Villager EntityVillager['Villager'/244592, l='ServerLevel[world]', x=2320.27, y=76.00, z=1526.69] died, message: 'Villager was slain by Zombie'
+[02:49:10] [Server thread/INFO]: Villager EntityVillager['Villager'/244536, l='ServerLevel[world]', x=2274.30, y=82.00, z=1554.43] died, message: 'Villager was slain by Zombie'
+[02:49:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25313ms or 506 ticks behind
+[02:50:09] [Server thread/WARN]: Nyagisa moved wrongly!
+[02:50:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25960ms or 519 ticks behind
+[02:51:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24903ms or 498 ticks behind
+[02:52:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22094ms or 441 ticks behind
+[02:53:00] [Server thread/INFO]: Nyagisa issued server command: /gamemode 1
+[02:53:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20132ms or 402 ticks behind
+[02:54:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18927ms or 378 ticks behind
+[02:54:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18875ms or 377 ticks behind
+[02:55:12] [Server thread/INFO]: Nyagisa issued server command: /gamemode 0
+[02:55:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17705ms or 354 ticks behind
+[02:55:49] [Server thread/INFO]: Nyagisa fell from a high place
+[02:56:02] [Server thread/INFO]: Nyagisa issued server command: /home gold
+[02:56:03] [Server thread/INFO]: Nyagisa issued server command: /home oro
+[02:56:06] [Server thread/INFO]: Nyagisa issued server command: /gamemode 1
+[02:56:21] [Server thread/INFO]: Nyagisa issued server command: /gamemode 0
+[02:56:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15291ms or 305 ticks behind
+[02:57:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17009ms or 340 ticks behind
+[02:57:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15681ms or 313 ticks behind
+[02:58:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17404ms or 348 ticks behind
+[02:59:34] [Server thread/INFO]: Nyagisa issued server command: /gamemode 3
+[02:59:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17593ms or 351 ticks behind
+[02:59:41] [Server thread/INFO]: Nyagisa issued server command: /gamemode 0
+[03:00:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16441ms or 328 ticks behind
+[03:01:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17439ms or 348 ticks behind
+[03:01:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17388ms or 347 ticks behind
+[03:02:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17778ms or 355 ticks behind
+[03:03:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18785ms or 375 ticks behind
+[03:04:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17377ms or 347 ticks behind
+[03:05:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19795ms or 395 ticks behind
+[03:05:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17009ms or 340 ticks behind
+[03:06:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17192ms or 343 ticks behind
+[03:07:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16877ms or 337 ticks behind
+[03:08:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17474ms or 349 ticks behind
+[03:08:19] [Server thread/INFO]: Nyagisa lost connection: Disconnected
+[03:08:19] [Server thread/INFO]: Nyagisa left the game
+[03:08:23] [Server thread/INFO]: Nyagisa_Dos lost connection: Disconnected
+[03:08:23] [Server thread/INFO]: Nyagisa_Dos left the game
+[03:15:46] [Netty Epoll Server IO #4/INFO]: <[0;31;22mPupiAnana[m> volvi[m
+[03:17:00] [Server thread/INFO]: PupiAnana lost connection: Disconnected
+[03:17:00] [Server thread/INFO]: PupiAnana left the game
+[03:32:58] [Server thread/INFO]: Flekeyd lost connection: Disconnected
+[03:32:58] [Server thread/INFO]: Flekeyd left the game
+[03:59:02] [Server thread/INFO]: ElPantera21[/167.58.173.90:55771] logged in with entity id 268791 at ([world]6604.566207013508, 63.0, -3042.826915491509)
+[04:00:07] [Server thread/INFO]: ElPantera21 lost connection: Disconnected
+[04:00:07] [Server thread/INFO]: ElPantera21 left the game
+[04:32:20] [Server thread/INFO]: Nyagisa_Dos[/181.44.75.3:56056] logged in with entity id 269715 at ([world]2322.506659525101, 79.0, 1532.619532794212)
+[04:33:01] [Server thread/INFO]: aby_chuli[/190.105.160.15:49840] logged in with entity id 270157 at ([world]2224.786892566553, 110.0, 1672.9542692158473)
+[04:34:48] [Server thread/INFO]: Nyagisa[/181.44.75.3:56176] logged in with entity id 270575 at ([world_nether]498.5455135236223, 255.0, 296.4150522210146)
+[04:37:47] [Server thread/INFO]: Villager EntityVillager['Villager'/269730, l='ServerLevel[world]', x=2238.08, y=72.00, z=1518.30] died, message: 'Villager was slain by Zombie'
+[04:38:14] [Server thread/INFO]: aby_chuli has made the advancement [What a Deal!]
+[04:38:55] [Server thread/INFO]: Nyagisa issued server command: /tp aby_chuli
+[04:39:00] [Server thread/INFO]: Nyagisa issued server command: /home casa
+[04:39:01] [Netty Epoll Server IO #2/INFO]: <[0;31;22maby_chuli[m> hi[m
+[04:39:07] [Netty Epoll Server IO #3/INFO]: <[0;31;22mNyagisa[m> hola[m
+[04:42:22] [Netty Epoll Server IO #2/INFO]: <[0;31;22maby_chuli[m> q hace la palanca?[m
+[04:42:35] [Netty Epoll Server IO #3/INFO]: <[0;31;22mNyagisa[m> habia unos pistones, pero teniamos que usarlos para otra cosa[m
+[04:42:39] [Netty Epoll Server IO #2/INFO]: <[0;31;22maby_chuli[m> ahh[m
+[04:43:11] [Server thread/INFO]: Nyagisa issued server command: /vanish
+[04:44:04] [Server thread/INFO]: aby_chuli has made the advancement [Getting an Upgrade]
+[04:44:13] [Server thread/INFO]: Villager EntityVillager['Toolsmith'/269814, l='ServerLevel[world]', x=2254.17, y=79.00, z=1610.37] died, message: 'Toolsmith hit the ground too hard'
+[04:47:49] [Server thread/INFO]: Villager EntityVillager['Villager'/269808, l='ServerLevel[world]', x=2258.30, y=11.00, z=1573.52] died, message: 'Villager hit the ground too hard'
+[04:49:26] [Server thread/INFO]: Nyagisa issued server command: /tp aby_chuli
+[04:50:47] [Server thread/INFO]: aby_chuli was slain by Nyagisa
+[04:50:55] [Netty Epoll Server IO #2/INFO]: <[0;31;22maby_chuli[m> e?[m
+[04:51:02] [Netty Epoll Server IO #3/INFO]: <[0;31;22mNyagisa[m> (?[m
+[04:51:07] [Netty Epoll Server IO #3/INFO]: <[0;31;22mNyagisa[m> wtf[m
+[04:51:14] [Netty Epoll Server IO #2/INFO]: <[0;31;22maby_chuli[m> ke me matas[m
+[04:51:16] [Netty Epoll Server IO #2/INFO]: <[0;31;22maby_chuli[m> dea[m
+[04:51:18] [Netty Epoll Server IO #3/INFO]: <[0;31;22mNyagisa[m> no te mate xd[m
+[04:51:24] [Netty Epoll Server IO #2/INFO]: <[0;31;22maby_chuli[m> ;-;[m
+[04:51:32] [Server thread/INFO]: Nyagisa issued server command: /home oro
+[04:51:36] [Server thread/INFO]: Nyagisa issued server command: /vanish
+[04:51:44] [Netty Epoll Server IO #3/INFO]: <[0;31;22mNyagisa[m> a menos que estes en el infierno no te mate xd[m
+[04:51:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5007ms or 100 ticks behind
+[04:51:56] [Netty Epoll Server IO #2/INFO]: <[0;31;22maby_chuli[m> estaba peleando con una abeja ;-;[m
+[04:52:38] [Server thread/INFO]: Nyagisa issued server command: /gamemode 3
+[04:52:45] [Server thread/INFO]: Nyagisa issued server command: /gamemode 0
+[04:53:02] [Server thread/INFO]: aby_chuli was blown up by Creeper
+[04:53:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5002ms or 100 ticks behind
+[04:54:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5007ms or 100 ticks behind
+[04:55:46] [Server thread/INFO]: Villager EntityVillager['Mason'/269764, l='ServerLevel[world]', x=2302.55, y=78.00, z=1542.19] died, message: 'Mason was slain by Drowned'
+[04:56:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5021ms or 100 ticks behind
+[04:56:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5656ms or 113 ticks behind
+[04:57:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5007ms or 100 ticks behind
+[04:58:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5040ms or 100 ticks behind
+[04:59:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5440ms or 108 ticks behind
+[04:59:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5003ms or 100 ticks behind
+[05:00:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5003ms or 100 ticks behind
+[05:00:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5008ms or 100 ticks behind
+[05:01:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5010ms or 100 ticks behind
+[05:02:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5865ms or 117 ticks behind
+[05:03:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5008ms or 100 ticks behind
+[05:04:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5003ms or 100 ticks behind
+[05:05:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5002ms or 100 ticks behind
+[05:06:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
+[05:07:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
+[05:08:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5003ms or 100 ticks behind
+[05:08:18] [Netty Epoll Server IO #2/INFO]: <[0;31;22maby_chuli[m> en q capa hay diamante?[m
+[05:09:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
+[05:09:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5009ms or 100 ticks behind
+[05:10:10] [Server thread/INFO]: aby_chuli has made the advancement [Monster Hunter]
+[05:10:43] [Server thread/INFO]: PupiAnana[/152.169.61.77:54656] logged in with entity id 283572 at ([world]2384.107134619691, 62.5, -935.661727145201)
+[05:10:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5006ms or 100 ticks behind
+[05:11:17] [Server thread/INFO]: PupiAnana issued server command: /msg Nyagisa no juegues lol con fabri
+[05:11:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6856ms or 137 ticks behind
+[05:11:42] [Server thread/INFO]: PupiAnana issued server command: /tp Nyagisa
+[05:11:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6258ms or 125 ticks behind
+[05:12:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5015ms or 100 ticks behind
+[05:12:55] [Server thread/INFO]: PupiAnana issued server command: /msg aby_chuli holis
+[05:12:59] [Server thread/INFO]: PupiAnana issued server command: /tp aby_chuli
+[05:13:09] [Server thread/INFO]: aby_chuli issued server command: /msg PupiAnana hola
+[05:13:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8883ms or 177 ticks behind
+[05:13:31] [Netty Epoll Server IO #3/INFO]: <[0;31;22mNyagisa[m> en la capa 11[m
+[05:13:36] [Server thread/INFO]: PupiAnana issued server command: /msg aby_chuli todo bien?
+[05:13:38] [Netty Epoll Server IO #2/INFO]: <[0;31;22maby_chuli[m> ah gracias[m
+[05:13:39] [Server thread/INFO]: Nyagisa issued server command: /msg PupiAnana ok
+[05:13:43] [Server thread/INFO]: aby_chuli issued server command: /msg PupiAnana si y vos?
+[05:13:47] [Netty Epoll Server IO #3/INFO]: <[0;31;22mNyagisa[m> perdon estaba afk[m
+[05:13:54] [Netty Epoll Server IO #2/INFO]: <[0;31;22maby_chuli[m> no pasa na xd[m
+[05:14:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8323ms or 166 ticks behind
+[05:14:02] [Server thread/INFO]: PupiAnana issued server command: /msg aby_chuli bien, recien ahora pude venir sjajs
+[05:14:09] [Server thread/INFO]: aby_chuli issued server command: /msg PupiAnana ekisde
+[05:14:28] [Server thread/INFO]: PupiAnana issued server command: /msg aby_chuli donde estas? xD
+[05:14:30] [Server thread/INFO]: aby_chuli issued server command: /msg PupiAnana mira
+[05:14:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5009ms or 100 ticks behind
+[05:14:48] [Server thread/INFO]: PupiAnana issued server command: /msg aby_chuli muchas flores :o
+[05:14:51] [Server thread/INFO]: aby_chuli issued server command: /msg PupiAnana si xd
+[05:14:55] [Server thread/INFO]: aby_chuli issued server command: /msg PupiAnana
+[05:15:05] [Server thread/INFO]: aby_chuli issued server command: /msg PupiAnana esta es mi favorita
+[05:15:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5417ms or 108 ticks behind
+[05:15:13] [Server thread/INFO]: PupiAnana issued server command: /msg aby_chuli para mi?
+[05:15:19] [Server thread/INFO]: aby_chuli issued server command: /msg PupiAnana zi
+[05:15:25] [Netty Epoll Server IO #2/INFO]: <[0;31;22maby_chuli[m> estaba minando[m
+[05:15:28] [Server thread/INFO]: PupiAnana issued server command: /msg aby_chuli mas linda xD
+[05:15:33] [Server thread/INFO]: aby_chuli issued server command: /msg PupiAnana :D
+[05:15:46] [Server thread/INFO]: aby_chuli issued server command: /msg PupiAnana mori 3 veces
+[05:15:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5514ms or 110 ticks behind
+[05:15:54] [Server thread/INFO]: aby_chuli issued server command: /msg PupiAnana y no supe regresar
+[05:16:04] [Server thread/INFO]: PupiAnana issued server command: /msg aby_chuli F
+[05:16:08] [Server thread/INFO]: PupiAnana issued server command: /msg aby_chuli queres ir?
+[05:16:13] [Server thread/INFO]: aby_chuli issued server command: /msg PupiAnana zi
+[05:16:20] [Server thread/INFO]: PupiAnana issued server command: /home bed
+[05:16:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6351ms or 127 ticks behind
+[05:16:37] [Server thread/INFO]: PupiAnana issued server command: /tp aby_chuli PupiAnana
+[05:17:00] [Server thread/INFO]: aby_chuli issued server command: /sethome
+[05:17:15] [Server thread/INFO]: aby_chuli issued server command: /tpa PupiAnana
+[05:17:32] [Server thread/INFO]: PupiAnana issued server command: /tpaccept
+[05:18:22] [Server thread/INFO]: aby_chuli issued server command: /msg PupiAnana ahora me va re bien :D
+[05:18:32] [Server thread/INFO]: PupiAnana issued server command: /msg aby_chuli posta?
+[05:18:36] [Server thread/INFO]: aby_chuli issued server command: /msg PupiAnana zi
+[05:18:48] [Server thread/INFO]: PupiAnana issued server command: /msg aby_chuli me alegro entonces :)
+[05:18:49] [Server thread/INFO]: Nyagisa issued server command: /home casa
+[05:18:49] [Server thread/INFO]: aby_chuli has made the advancement [Sweet Dreams]
+[05:19:04] [Netty Epoll Server IO #2/INFO]: <[0;31;22maby_chuli[m> xd[m
+[05:19:11] [Netty Epoll Server IO #6/INFO]: <[0;31;22mPupiAnana[m> en que cama dormiste[m
+[05:19:20] [Netty Epoll Server IO #2/INFO]: <[0;31;22maby_chuli[m> la de abajo[m
+[05:19:26] [Netty Epoll Server IO #6/INFO]: <[0;31;22mPupiAnana[m> que color xD[m
+[05:19:39] [Netty Epoll Server IO #2/INFO]: <[0;31;22maby_chuli[m> por?[m
+[05:19:43] [Netty Epoll Server IO #2/INFO]: <[0;31;22maby_chuli[m> hice algo mal?[m
+[05:19:53] [Netty Epoll Server IO #6/INFO]: <[0;31;22mPupiAnana[m> cada una de las habitaciones es de un amigo jsjsaj[m
+[05:20:01] [Netty Epoll Server IO #2/INFO]: <[0;31;22maby_chuli[m> a[m
+[05:20:10] [Netty Epoll Server IO #2/INFO]: <[0;31;22maby_chuli[m> habia aldeanos aca[m
+[05:20:23] [Netty Epoll Server IO #6/INFO]: <[0;31;22mPupiAnana[m> duermen aca por que no tienen cama[m
+[05:20:31] [Netty Epoll Server IO #2/INFO]: <[0;31;22maby_chuli[m> ypo kiero una pieza :([m
+[05:20:42] [Netty Epoll Server IO #6/INFO]: <[0;31;22mPupiAnana[m> mepa que no hay espacio JASJASJ[m
+[05:20:44] [Netty Epoll Server IO #2/INFO]: <[0;31;22maby_chuli[m> duermo con vs uwu[m
+[05:20:47] [Netty Epoll Server IO #3/INFO]: <[0;31;22mNyagisa[m> dormi con nacho por ahora xd[m
+[05:20:51] [Netty Epoll Server IO #3/INFO]: <[0;31;22mNyagisa[m> esta es la cama de nacho[m
+[05:20:52] [Netty Epoll Server IO #3/INFO]: <[0;31;22mNyagisa[m> venite[m
+[05:20:53] [Netty Epoll Server IO #2/INFO]: <[0;31;22maby_chuli[m> ta bien[m
+[05:21:02] [Server thread/INFO]: Nyagisa issued server command: /gamemode 1
+[05:21:03] [Netty Epoll Server IO #2/INFO]: <[0;31;22maby_chuli[m> 7w7[m
+[05:21:07] [Netty Epoll Server IO #6/INFO]: <[0;31;22mPupiAnana[m> xDDD[m
+[05:21:16] [Netty Epoll Server IO #2/INFO]: <[0;31;22maby_chuli[m> ekisde[m
+[05:21:17] [Server thread/INFO]: Nyagisa issued server command: /gamemode 0
+[05:21:46] [Netty Epoll Server IO #2/INFO]: <[0;31;22maby_chuli[m> discord?[m
+[05:22:00] [Netty Epoll Server IO #6/INFO]: <[0;31;22mPupiAnana[m> te invito a un server[m
+[05:22:02] [Netty Epoll Server IO #6/INFO]: <[0;31;22mPupiAnana[m> dale?[m
+[05:22:04] [Netty Epoll Server IO #2/INFO]: <[0;31;22maby_chuli[m> oki[m
+[05:23:14] [Server thread/INFO]: Nyagisa issued server command: /msg PupiAnana se lo regalaron
+[05:23:19] [Server thread/INFO]: Nyagisa issued server command: /msg PupiAnana o lo saco del creativo
+[05:23:24] [Server thread/INFO]: Nyagisa issued server command: /msg PupiAnana ya vengo
+[05:24:52] [Netty Epoll Server IO #2/INFO]: <[0;31;22maby_chuli[m> se escucha?[m
+[05:27:08] [Server thread/INFO]: aby_chuli fell from a high place
+[05:27:40] [Server thread/INFO]: Nyagisa issued server command: /msg PupiAnana no le digas eso salamin, anda a ayudarla, no le digas que "si necesitas algo" anda a darle algo
+[05:28:20] [Server thread/INFO]: PupiAnana issued server command: /msg Nyagisa sinceramente quiero hacer el edificio para aldeanos, es mi prioridad ahre
+[05:29:04] [Server thread/INFO]: Nyagisa issued server command: /msg PupiAnana daselo de tu parte
+[05:29:07] [Server thread/INFO]: Nyagisa issued server command: /msg PupiAnana salamin
+[05:29:23] [Server thread/INFO]: PupiAnana issued server command: /msg Nyagisa tas loco
+[05:29:27] [Server thread/INFO]: PupiAnana issued server command: /tp aby_chuli
+[05:29:33] [Server thread/INFO]: Nyagisa issued server command: /msg PupiAnana dale amigo, no me costo nada conseeguir eso
+[05:29:41] [Server thread/INFO]: aby_chuli has made the advancement [Diamonds!]
+[05:30:14] [Server thread/INFO]: PupiAnana issued server command: /msg Nyagisa fracase :(
+[05:30:19] [Server thread/INFO]: Nyagisa issued server command: /msg PupiAnana como?
+[05:30:30] [Server thread/INFO]: PupiAnana issued server command: /msg Nyagisa los rechazo xD
+[05:30:35] [Server thread/INFO]: Nyagisa issued server command: /msg PupiAnana ah?
+[05:30:37] [Server thread/INFO]: Nyagisa issued server command: /msg PupiAnana xd
+[05:31:08] [Server thread/INFO]: PupiAnana issued server command: /msg Nyagisa posta
+[05:31:19] [Server thread/INFO]: Nyagisa issued server command: /msg PupiAnana asesinala entonces
+[05:31:24] [Server thread/INFO]: PupiAnana issued server command: /msg Nyagisa JAJAJAJA
+[05:31:30] [Server thread/INFO]: PupiAnana issued server command: /msg Nyagisa un romantico
+[05:31:45] [Server thread/INFO]: Nyagisa issued server command: /msg PupiAnana nunca viste el señor y la señora smith?
+[05:32:44] [Server thread/INFO]: Villager EntityVillager['Villager'/269757, l='ServerLevel[world]', x=2217.18, y=80.85, z=1562.62] died, message: 'Villager was slain by Zombie'
+[05:33:23] [Server thread/INFO]: PupiAnana issued server command: /msg Nyagisa no le entiendo un choto
+[05:33:54] [Server thread/INFO]: Nyagisa issued server command: /msg PupiAnana JAJAJAAJA
+[05:33:58] [Server thread/WARN]: Nyagisa moved too quickly! 4.284817015892713,2.249187078744683,12.657161335560204
+[05:34:13] [Server thread/INFO]: aby_chuli issued server command: /tpa PupiAnana
+[05:34:23] [Server thread/INFO]: PupiAnana issued server command: /tpaccept
+[05:36:56] [Server thread/INFO]: Nyagisa issued server command: /tp PupiAnana
+[05:37:16] [Server thread/INFO]: Nyagisa issued server command: /msg PupiAnana dale comida
+[05:37:20] [Server thread/INFO]: Nyagisa issued server command: /msg PupiAnana eso te pide
+[05:38:27] [Server thread/INFO]: Nyagisa issued server command: /tp PupiAnana
+[05:39:04] [Server thread/WARN]: Nyagisa moved too quickly! -23.86784635585809,-0.8974581343275929,-10.011810704950904
+[05:42:40] [Server thread/INFO]: Nyagisa issued server command: /tp Nyagisa_Dos
+[05:43:10] [Server thread/INFO]: Nyagisa issued server command: /msg PupiAnana te cuenta una anecdota graciosa
+[05:43:20] [Server thread/INFO]: PupiAnana issued server command: /msg Nyagisa NO LA ESCUCHOOOOOOOOOOOOO
+[05:43:36] [Server thread/INFO]: Nyagisa issued server command: /msg PupiAnana en skyward, que se suicido al final porque no sabia pvpear
+[05:45:41] [Server thread/INFO]: Nyagisa issued server command: /tp Nyagisa_Dos Nyagisa
+[05:46:15] [Server thread/INFO]: Villager EntityVillager['Mason'/269805, l='ServerLevel[world]', x=2258.30, y=11.00, z=1573.50] died, message: 'Mason hit the ground too hard'
+[05:46:45] [Server thread/INFO]: aby_chuli was slain by Iron Golem
+[05:46:56] [Server thread/INFO]: aby_chuli issued server command: /tpa PupiAnana
+[05:47:06] [Server thread/INFO]: PupiAnana issued server command: /tpaccept
+[05:47:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5015ms or 100 ticks behind
+[05:48:09] [Server thread/INFO]: Nyagisa issued server command: /tp PupiAnana
+[05:49:10] [Server thread/INFO]: aby_chuli was slain by Nyagisa using [Natural]
+[05:49:18] [Server thread/INFO]: aby_chuli issued server command: /tpa PupiAnana
+[05:49:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
+[05:49:24] [Server thread/INFO]: Nyagisa issued server command: /tp aby_chuli ny
+[05:52:07] [Server thread/INFO]: PupiAnana issued server command: /tp aby_chuli PupiAnana
+[05:52:13] [Server thread/INFO]: aby_chuli has reached the goal [Sky's the Limit]
+[05:52:43] [Server thread/INFO]: Nyagisa issued server command: /tp PupiAnana
+[05:52:55] [Server thread/INFO]: aby_chuli experienced kinetic energy
+[05:53:00] [Server thread/INFO]: aby_chuli issued server command: /tpa PupiAnana
+[05:53:03] [Server thread/INFO]: PupiAnana issued server command: /tpaccept
+[05:53:46] [Server thread/INFO]: aby_chuli has made the advancement [Cover Me With Diamonds]
+[05:53:58] [Server thread/INFO]: aby_chuli has made the advancement [Suit Up]
+[05:55:23] [Server thread/INFO]: Nyagisa lost connection: Disconnected
+[05:55:23] [Server thread/INFO]: Nyagisa left the game
+[05:55:26] [Server thread/INFO]: Nyagisa[/181.44.75.3:56517] logged in with entity id 296838 at ([world]2260.3098829945857, 78.0, 1606.7844340435465)
+[05:55:29] [Server thread/WARN]: Nyagisa moved wrongly!
+[05:56:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5010ms or 100 ticks behind
+[05:57:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5006ms or 100 ticks behind
+[05:58:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5004ms or 100 ticks behind
+[05:58:54] [Server thread/INFO]: aby_chuli was burnt to a crisp whilst fighting PupiAnana
+[05:58:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5216ms or 104 ticks behind
+[05:59:43] [Server thread/INFO]: Nyagisa issued server command: /tp PupiAnana
+[06:01:17] [Server thread/INFO]: aby_chuli was shot by PupiAnana
+[06:03:22] [Server thread/INFO]: aby_chuli fell from a high place
+[06:03:35] [Server thread/WARN]: Nyagisa moved wrongly!
+[06:03:47] [Server thread/INFO]: Nyagisa issued server command: /tp aby_chuli
+[06:04:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5010ms or 100 ticks behind
+[06:05:04] [Server thread/WARN]: aby_chuli moved wrongly!
+[06:05:17] [Server thread/INFO]: aby_chuli was slain by PupiAnana
+[06:05:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5008ms or 100 ticks behind
+[06:05:34] [Server thread/INFO]: aby_chuli was slain by PupiAnana
+[06:05:55] [Server thread/INFO]: aby_chuli was slain by PupiAnana
+[06:06:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8402ms or 168 ticks behind
+[06:06:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5261ms or 105 ticks behind
+[06:06:50] [Server thread/INFO]: Nyagisa lost connection: Disconnected
+[06:06:50] [Server thread/INFO]: Nyagisa left the game
+[06:07:10] [Server thread/INFO]: Nyagisa[/181.44.75.3:56555] logged in with entity id 301037 at ([world_nether]307.88716541297697, 31.0, 204.69999998807907)
+[06:07:11] [Server thread/INFO]: PupiAnana issued server command: /tp Nyagisa PupiAnana
+[06:07:21] [Server thread/INFO]: Nyagisa lost connection: Disconnected
+[06:07:21] [Server thread/INFO]: Nyagisa left the game
+[06:07:27] [Server thread/INFO]: Nyagisa[/181.44.75.3:56566] logged in with entity id 301076 at ([world]2311.5, 74.0, 1560.5)
+[06:08:03] [Server thread/INFO]: aby_chuli was burnt to a crisp whilst fighting Nyagisa
+[06:08:34] [Server thread/INFO]: aby_chuli was slain by PupiAnana
+[06:09:17] [Server thread/INFO]: Nyagisa issued server command: /xp give aby_chuli 99999l
+[06:09:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5009ms or 100 ticks behind
+[06:10:18] [Server thread/INFO]: aby_chuli issued server command: /tpa PupiAnana
+[06:10:21] [Server thread/INFO]: PupiAnana issued server command: /tpaccept
+[06:10:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5011ms or 100 ticks behind
+[06:11:23] [Server thread/INFO]: PupiAnana fell from a high place
+[06:11:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5003ms or 100 ticks behind
+[06:11:49] [Server thread/INFO]: Nyagisa issued server command: /tp aby_chuli Nyagisa
+[06:11:52] [Server thread/INFO]: aby_chuli has completed the challenge [Cover Me in Debris]
+[06:12:05] [Server thread/INFO]: PupiAnana was burnt to a crisp whilst fighting aby_chuli
+[06:12:38] [Server thread/INFO]: aby_chuli was slain by Nyagisa using [Natural V2]
+[06:12:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5129ms or 102 ticks behind
+[06:12:48] [Server thread/INFO]: aby_chuli issued server command: /tpa PupiAnana
+[06:12:50] [Server thread/INFO]: PupiAnana issued server command: /tpaccept
+[06:13:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5012ms or 100 ticks behind
+[06:14:07] [Server thread/INFO]: aby_chuli issued server command: /msg PupiAnana queres la skin?
+[06:14:10] [Server thread/INFO]: aby_chuli issued server command: /msg PupiAnana dea
+[06:14:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
+[06:14:15] [Server thread/INFO]: PupiAnana issued server command: /msg aby_chuli messirve
+[06:14:23] [Netty Epoll Server IO #2/INFO]: <[0;31;22maby_chuli[m> uwu[m
+[06:14:30] [Netty Epoll Server IO #4/INFO]: <[0;31;22mNyagisa[m> deciles que sos la novia[m
+[06:14:36] [Netty Epoll Server IO #6/INFO]: <[0;31;22mPupiAnana[m> gano una skin[m
+[06:14:39] [Netty Epoll Server IO #6/INFO]: <[0;31;22mPupiAnana[m> JAJAJA[m
+[06:14:40] [Netty Epoll Server IO #2/INFO]: <[0;31;22maby_chuli[m> xd[m
+[06:14:57] [Netty Epoll Server IO #2/INFO]: <[0;31;22maby_chuli[m> ekisde a[m
+[06:15:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5011ms or 100 ticks behind
+[06:15:54] [Server thread/INFO]: aby_chuli issued server command: /msg Nyagisa cuantos años tiene?
+[06:16:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5002ms or 100 ticks behind
+[06:16:04] [Server thread/INFO]: Nyagisa issued server command: /msg aby_chuli quien?
+[06:16:12] [Server thread/INFO]: Nyagisa issued server command: /msg aby_chuli el de la voz grave
+[06:16:13] [Server thread/INFO]: aby_chuli issued server command: /msg Nyagisa nacho
+[06:16:27] [Server thread/INFO]: Nyagisa issued server command: /msg PupiAnana cuantos años le dijiste que tenias
+[06:16:40] [Server thread/INFO]: PupiAnana issued server command: /msg Nyagisa la verdad pa
+[06:16:47] [Server thread/INFO]: Nyagisa issued server command: /msg aby_chuli 16 tiene
+[06:16:53] [Server thread/INFO]: aby_chuli issued server command: /msg Nyagisa lpm
+[06:16:56] [Server thread/INFO]: aby_chuli issued server command: /msg Nyagisa a
+[06:16:56] [Server thread/INFO]: PupiAnana issued server command: /msg aby_chuli cuantos años tenias? jsjsjs
+[06:17:00] [Server thread/INFO]: aby_chuli issued server command: /msg Nyagisa 14
+[06:17:03] [Server thread/INFO]: Nyagisa issued server command: /msg aby_chuli va a cumplir 17 el 18 de mayo, asi que de nada
+[06:17:03] [Server thread/INFO]: PupiAnana issued server command: /msg aby_chuli pregunta boluda
+[06:17:08] [Server thread/INFO]: Nyagisa issued server command: /msg aby_chuli tas chiquita xd
+[06:17:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5001ms or 100 ticks behind
+[06:17:16] [Server thread/INFO]: aby_chuli issued server command: /msg Nyagisa yo en abril los 1
+[06:17:20] [Server thread/INFO]: aby_chuli issued server command: /msg Nyagisa yo en abril los 15
+[06:17:43] [Server thread/INFO]: aby_chuli issued server command: /msg PupiAnana 14 ;-;
+[06:17:57] [Server thread/INFO]: Nyagisa issued server command: /msg aby_chuli vas a hacerte la fiesta de los 15 y vas a poder invitar a nacho
+[06:18:02] [Server thread/INFO]: Villager EntityVillager['Villager'/269763, l='ServerLevel[world]', x=2250.16, y=80.00, z=1576.52] died, message: 'Villager hit the ground too hard'
+[06:18:07] [Server thread/INFO]: aby_chuli issued server command: /
+[06:18:19] [Server thread/INFO]: PupiAnana issued server command: /msg aby_chuli me parecia
+[06:18:19] [Server thread/INFO]: aby_chuli issued server command: /msg Nyagisa piola a
+[06:18:27] [Server thread/INFO]: PupiAnana issued server command: /msg aby_chuli pero no me acordaba perdon :(
+[06:18:27] [Server thread/INFO]: aby_chuli issued server command: /msg PupiAnana ekisde
+[06:18:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5012ms or 100 ticks behind
+[06:18:39] [Server thread/INFO]: aby_chuli issued server command: /msg PupiAnana toy chikita
+[06:18:45] [Server thread/INFO]: aby_chuli issued server command: /msg PupiAnana a
+[06:18:53] [Server thread/INFO]: PupiAnana issued server command: /msg aby_chuli jsjsjs aca tenemos todos 16 y 17
+[06:19:02] [Server thread/INFO]: aby_chuli issued server command: /msg PupiAnana no mames
+[06:19:03] [Server thread/INFO]: PupiAnana issued server command: /msg aby_chuli asi que si estas chikita
+[06:19:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5012ms or 100 ticks behind
+[06:19:31] [Server thread/INFO]: aby_chuli issued server command: /msg PupiAnana ahora me siento mal
+[06:19:37] [Server thread/INFO]: aby_chuli issued server command: /msg PupiAnana xd
+[06:19:37] [Server thread/INFO]: PupiAnana issued server command: /msg aby_chuli por?
+[06:19:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5340ms or 106 ticks behind
+[06:19:51] [Server thread/INFO]: aby_chuli issued server command: /msg PupiAnana mis amigos tienen todos 13 y io soy la mas grande
+[06:19:55] [Server thread/INFO]: aby_chuli issued server command: /msg PupiAnana xd
+[06:20:03] [Server thread/INFO]: aby_chuli issued server command: /msg PupiAnana y aca no
+[06:20:07] [Server thread/INFO]: PupiAnana issued server command: /msg aby_chuli JAJAJA aca hay gente menor que vos tambien
+[06:20:11] [Server thread/INFO]: PupiAnana issued server command: /msg aby_chuli en el server
+[06:20:15] [Server thread/INFO]: aby_chuli issued server command: /msg PupiAnana :v
+[06:20:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5544ms or 110 ticks behind
+[06:20:40] [Server thread/INFO]: PupiAnana issued server command: /msg aby_chuli esta prohibido el pacman por cierto, pero por ser vos no digo nada
+[06:20:55] [Server thread/INFO]: PupiAnana issued server command: /msg aby_chuli JASJSAJ
+[06:21:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7547ms or 150 ticks behind
+[06:21:05] [Server thread/INFO]: PupiAnana issued server command: /tp Nyagisa_Dos
+[06:21:09] [Server thread/INFO]: aby_chuli issued server command: /msg PupiAnana ta bien xd igual es re viejo
+[06:21:31] [Server thread/INFO]: aby_chuli issued server command: /msg PupiAnana no entiendo de q hablan
+[06:21:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8570ms or 171 ticks behind
+[06:21:46] [Server thread/INFO]: aby_chuli fell from a high place
+[06:22:02] [Server thread/INFO]: PupiAnana issued server command: /msg aby_chuli hablan de varios juegos
+[06:22:08] [Server thread/INFO]: aby_chuli issued server command: /msg PupiAnana okey
+[06:22:15] [Server thread/INFO]: PupiAnana issued server command: /msg aby_chuli no estoy prestando atencion, te estoy prestando atencion a vos jsajjas
+[06:22:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5004ms or 100 ticks behind
+[06:23:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7258ms or 145 ticks behind
+[06:23:39] [Server thread/INFO]: PupiAnana issued server command: /msg Nyagisa vamos?
+[06:23:49] [Server thread/INFO]: PupiAnana issued server command: /msg Nyagisa NOOO
+[06:24:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7339ms or 146 ticks behind
+[06:24:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6608ms or 132 ticks behind
+[06:24:46] [Server thread/INFO]: aby_chuli issued server command: /tpa PupiAnana
+[06:24:53] [Server thread/INFO]: PupiAnana issued server command: /tpaccept
+[06:25:21] [Server thread/INFO]: PupiAnana issued server command: /msg aby_chuli si te incomoda te podes ir bb
+[06:25:33] [Server thread/INFO]: aby_chuli issued server command: /msg PupiAnana na tranki
+[06:25:35] [Server thread/INFO]: PupiAnana issued server command: /msg aby_chuli somos amigos hace 6 años ya, tenemos la re confianza xd
+[06:25:42] [Server thread/INFO]: aby_chuli issued server command: /msg PupiAnana ekisde
+[06:25:56] [Server thread/INFO]: PupiAnana issued server command: /msg aby_chuli jugamos todo el dia juntos xD
+[06:26:13] [Server thread/INFO]: aby_chuli issued server command: /msg PupiAnana piola
+[06:27:35] [Server thread/INFO]: Nyagisa lost connection: Disconnected
+[06:27:35] [Server thread/INFO]: Nyagisa left the game
+[06:27:41] [Server thread/INFO]: Nyagisa_Dos lost connection: Disconnected
+[06:27:41] [Server thread/INFO]: Nyagisa_Dos left the game
+[06:27:50] [Server thread/INFO]: PupiAnana lost connection: Disconnected
+[06:27:50] [Server thread/INFO]: PupiAnana left the game
+[06:29:57] [Server thread/INFO]: aby_chuli lost connection: Disconnected
+[06:29:57] [Server thread/INFO]: aby_chuli left the game
+[06:32:22] [Server thread/INFO]: Nyagisa[/181.44.75.3:56753] logged in with entity id 307412 at ([world_nether]302.1401331551939, 42.0, 164.8434005163701)
+[06:32:32] [Server thread/INFO]: Nyagisa lost connection: Disconnected
+[06:32:32] [Server thread/INFO]: Nyagisa left the game
+[07:06:48] [Craft Scheduler Thread - 100/INFO]: [Vault] Checking for Updates ... 
+[07:06:49] [Craft Scheduler Thread - 100/INFO]: [Vault] No new version available
+[13:06:48] [Craft Scheduler Thread - 101/INFO]: [Vault] Checking for Updates ... 
+[13:06:49] [Craft Scheduler Thread - 101/INFO]: [Vault] No new version available
+[13:40:36] [Server thread/INFO]: Flekeyd[/179.24.67.232:65305] logged in with entity id 308174 at ([world]6585.300000011921, 80.0, -2973.300000011921)
+[13:46:03] [Server thread/INFO]: Villager EntityVillager['Toolsmith'/308808, l='ServerLevel[world]', x=6264.43, y=71.50, z=-2882.89] died, message: 'Toolsmith hit the ground too hard'
+[13:48:32] [Server thread/INFO]: Flekeyd issued server command: /home
+[13:48:44] [Server thread/INFO]: Flekeyd has made the advancement [Sweet Dreams]
+[14:44:31] [Server thread/INFO]: Villager EntityVillager['Librarian'/308747, l='ServerLevel[world]', x=6264.70, y=71.50, z=-2883.17] died, message: 'Librarian hit the ground too hard'
+[14:56:14] [Server thread/INFO]: Flekeyd lost connection: Disconnected
+[14:56:14] [Server thread/INFO]: Flekeyd left the game
+[16:03:08] [Server thread/INFO]: Flekeyd[/179.24.67.232:64244] logged in with entity id 321567 at ([world]6613.972513993236, 77.0, -3006.640401379628)
+[16:15:53] [Server thread/INFO]: Flekeyd was shot by Skeleton
+[16:23:01] [Server thread/INFO]: Flekeyd was shot by Skeleton
+[16:29:39] [Server thread/INFO]: Villager EntityVillager['Librarian'/333731, l='ServerLevel[world]', x=6264.66, y=71.00, z=-2882.57] died, message: 'Librarian hit the ground too hard'
+[16:52:48] [Server thread/INFO]: Flekeyd has made the advancement [The Parrots and the Bats]
+[16:57:14] [Server thread/INFO]: Flekeyd was slain by Enderman
+[17:01:43] [Server thread/INFO]: Villager EntityVillager['Cleric'/338691, l='ServerLevel[world]', x=6264.26, y=72.00, z=-2883.20] died, message: 'Cleric hit the ground too hard'
+[17:12:44] [Server thread/INFO]: Villager EntityVillager['Librarian'/338644, l='ServerLevel[world]', x=6264.49, y=71.50, z=-2883.15] died, message: 'Librarian hit the ground too hard'
+[17:25:13] [Server thread/INFO]: CONSOLE issued server command: /list 
+[17:25:13] [Server thread/INFO]: [0;33;22mThere are [0;31;1m1[0;33;22m out of maximum [0;31;1m20[0;33;22m players online.[m
+[17:25:13] [Server thread/INFO]: [0;33;22mdefault[m: [0;31;22mFlekeyd[m[0;37;1m[m
+[17:25:25] [Server thread/INFO]: [Server] Fleke
+[17:25:29] [Server thread/INFO]: [Server] entra a discord
+[17:25:39] [Server thread/INFO]: [Server] voy a apagar esto
+[17:25:45] [Server thread/INFO]: Saving the game (this may take a moment!)
+[17:25:46] [Server thread/INFO]: Saved the game
+[17:26:00] [Server thread/INFO]: Stopping the server
+[17:26:00] [Server thread/INFO]: Stopping server
+[17:26:00] [Server thread/INFO]: [SinglePlayerSleep] Disabling SinglePlayerSleep v1.13_2.13.45.2
+[17:26:00] [Server thread/INFO]: [1m[32m**************************************[0m
+[17:26:00] [Server thread/INFO]: [1m[33mSinglePlayerSleep v1.13_2.13.45.2[0m is DISABLED
+[17:26:00] [Server thread/INFO]: [1m[32m**************************************[0m
+[17:26:00] [Server thread/INFO]: [Essentials] Disabling Essentials v2.18.2.0
+[17:26:00] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[17:26:00] [Server thread/INFO]: [MySkin] Disabling MySkin v3.3
+[17:26:00] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[17:26:00] [Server thread/INFO]: [Timber] Disabling Timber v1.0.9
+[17:26:00] [Server thread/INFO]: [OpenInventory] Disabling OpenInventory v1.2
+[17:26:00] [Server thread/INFO]: Saving players
+[17:26:00] [Server thread/INFO]: Flekeyd lost connection: Server closed
+[17:26:00] [Server thread/INFO]: Flekeyd left the game
+[17:26:00] [Server thread/INFO]: Saving worlds
+[17:26:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:26:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:26:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[17:26:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:26:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[17:26:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:26:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:26:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:26:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

@@ -1,0 +1,28 @@
+lastAccountName: Flekeyd
+timestamps:
+  login: 1610208188482
+  lastteleport: 1610200112124
+  logout: 1610213160852
+ipAddress: 179.24.67.232
+lastlocation:
+  world: world
+  x: 6610.4651972112215
+  y: 77.0
+  z: -3015.877431470892
+  yaw: -275.1798
+  pitch: 21.652624
+logoutlocation:
+  world: world
+  x: 6613.972513993236
+  y: 77.0
+  z: -3006.640401379628
+  yaw: -186.0314
+  pitch: 12.5637665
+homes:
+  casita:
+    world: world
+    x: 6599.45172017931
+    y: 77.0
+    z: -2987.4562870174614
+    yaw: 228.01712
+    pitch: 9.802839

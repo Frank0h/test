@@ -1,0 +1,56 @@
+lastAccountName: Nyagisa
+timestamps:
+  login: 1610173942880
+  logout: 1610173952661
+  lastteleport: 1610172227998
+ipAddress: 181.44.75.3
+logoutlocation:
+  world: world_nether
+  x: 302.11874593694864
+  y: 42.0
+  z: 157.40572144635584
+  yaw: 179.84894
+  pitch: 21.851336
+lastlocation:
+  world: world_nether
+  x: 307.88716541297697
+  y: 31.0
+  z: 204.69999998807907
+  yaw: 6.158783
+  pitch: 36.449448
+homes:
+  casa:
+    world: world
+    x: 2259.0742501783743
+    y: 78.0
+    z: 1608.612470147482
+    yaw: 215.34096
+    pitch: 12.899676
+  creeper:
+    world: world
+    x: 2216.3514431520166
+    y: 196.0
+    z: 1670.7840843782963
+    yaw: 97.16235
+    pitch: 38.850243
+  techo:
+    world: world_nether
+    x: 304.6623180864894
+    y: 128.0
+    z: 191.5878895957054
+    yaw: 9.985779
+    pitch: 22.94876
+  mati:
+    world: world
+    x: 2726.7073303112447
+    y: 63.9375
+    z: -1375.656641897784
+    yaw: 230.20673
+    pitch: 49.19977
+  oro:
+    world: world_nether
+    x: 498.04389435015565
+    y: 128.0
+    z: 301.1714719906924
+    yaw: 79.194214
+    pitch: 50.99999

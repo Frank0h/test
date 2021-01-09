@@ -1,0 +1,28 @@
+lastAccountName: aby_chuli
+timestamps:
+  login: 1610166781188
+  logout: 1610173797413
+  lastteleport: 1610173493637
+ipAddress: 190.105.160.15
+logoutlocation:
+  world: world
+  x: 2414.649826575917
+  y: 66.0
+  z: -934.7161709830141
+  yaw: 85.105286
+  pitch: 21.373888
+lastlocation:
+  world: world
+  x: 2273.8879499462364
+  y: 80.0
+  z: 1588.4648586160122
+  yaw: 277.5225
+  pitch: 3.1745393
+homes:
+  home:
+    world: world
+    x: 2283.080034065279
+    y: 80.0
+    z: 1589.6540938558182
+    yaw: 25.500061
+    pitch: 7.0499825

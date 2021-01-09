@@ -1,0 +1,20 @@
+lastAccountName: fabrapp
+timestamps:
+  login: 1610155861830
+  logout: 1610159416014
+  lastteleport: 1610157607835
+ipAddress: 152.169.66.45
+logoutlocation:
+  world: world_nether
+  x: 389.2269030909556
+  y: 11.0
+  z: -83.55404658008602
+  yaw: 271.17786
+  pitch: 14.699137
+lastlocation:
+  world: world
+  x: 2399.300000011921
+  y: 21.0
+  z: -936.6999999880791
+  yaw: -122.40798
+  pitch: 49.199814

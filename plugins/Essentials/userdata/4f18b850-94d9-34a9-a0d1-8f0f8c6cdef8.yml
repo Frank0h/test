@@ -1,0 +1,49 @@
+lastAccountName: PupiAnana
+timestamps:
+  login: 1610169043961
+  lastteleport: 1610173265935
+  logout: 1610173670262
+ipAddress: 152.169.61.77
+lastlocation:
+  world: world
+  x: 2261.2518655441736
+  y: 83.0
+  z: 1553.699999988079
+  yaw: -118.55127
+  pitch: 15.150006
+homes:
+  home:
+    world: world
+    x: 2270.120549445611
+    y: 73.5625
+    z: 1605.9544604587786
+    yaw: 89.1409
+    pitch: 37.847767
+  fortaleza:
+    world: world_nether
+    x: -1502.0697792943713
+    y: 43.875
+    z: -407.84327850436824
+    yaw: -70.81186
+    pitch: 26.099998
+  netheroro:
+    world: world_nether
+    x: 233.72648762488882
+    y: 12.0
+    z: -342.26113472656925
+    yaw: -44.386932
+    pitch: -15.899631
+  castillo:
+    world: world_nether
+    x: -1644.699999988079
+    y: 62.0
+    z: -715.3000000119209
+    yaw: 219.14868
+    pitch: 34.94983
+logoutlocation:
+  world: world
+  x: 2385.1756039691845
+  y: 70.0
+  z: -917.2079527065806
+  yaw: -10.472534
+  pitch: 20.099861
